@@ -636,19 +636,19 @@ http://ps3u.ga/m3u/Lista02/disneyxd/index.m3u8
 http://ps3u.ga/m3u/Lista02/dkids/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/natgeokidshd_thumb_n1era35z.png"group-title="BrEiTV.com 02 Infantiles",Natgeo KIDS
 http://ps3u.ga/m3u/Lista02/natgeokids/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/nickelodeon--nick-_thumb_xwh81fjo.png"group-title="BrEiTV.com 02 Infantiles",NICK
+#EXTINF:-1 ,NICK
 http://ps3u.ga/m3u/Lista02/nick/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/nick_jr_thumb_3wdv8ym2.png"group-title="BrEiTV.com 02 Infantiles",NICK JR
+#EXTINF:-1 ,NICK JR
 http://ps3u.ga/m3u/Lista02/nickjr/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/TeenNick_thumb_0n18qemm.png"group-title="BrEiTV.com 02 Infantiles",TEEN NICK
+#EXTINF:-1 ,TEEN NICK
 http://ps3u.ga/m3u/Lista02/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tooncast_3_thumb_wgs0hn8l.png"group-title="BrEiTV.com 02 Infantiles",Tooncast
+#EXTINF:-1 ,Tooncast
 http://ps3u.ga/m3u/Lista02/tooncast/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX A Plus" tvg-logo="" group-title="MEXICAN",MX A Plus
+#EXTINF:-1 ,MX A Plus
 http://supersonictv.live:25461/tv/tv/61218
-#EXTINF:-1 tvg-id="" tvg-name="MX A&E HD" tvg-logo="" group-title="MEXICAN",MX A&E HD
+#EXTINF:-1 ,MX A&E HD
 http://supersonictv.live:25461/tv/tv/61219
-#EXTINF:-1 tvg-id="" tvg-name="MX A3 Series HD" tvg-logo="" group-title="MEXICAN",MX A3 Series HD
+#EXTINF:-1 ,MX A3 Series HD
 http://supersonictv.live:25461/tv/tv/61220
-#EXTINF:-1 tvg-id="" tvg-name="MX ADN40 HD" tvg-logo="" group-title="MEXICAN",MX ADN40 HD
+#EXTINF:-1 ,MX ADN40 HD
 http://supersonictv.live:25461/tv/tv/61221
