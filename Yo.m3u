@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,STAR CINEMA
+#EXTINF:-1 ,STAR CINEMA
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1,STARHITS
+#EXTINF:-1 ,STARHITS
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 ,CINEMAX
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1,SYFI
+#EXTINF:-1 ,SYFI
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=syfy-1&f=.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 ,TNT
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=tnt&f=.m3u8
-#EXTINF:-1,TUDN
+#EXTINF:-1 ,TUDN
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1,HBOPLUS
+#EXTINF:-1 ,HBOPLUS
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1,HBOXTREME
+#EXTINF:-1 ,HBOXTREME
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1,HBOPOP
+#EXTINF:-1 ,HBOPOP
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1,CINECANAL
+#EXTINF:-1 ,CINECANAL
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 ,AXN
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 ,AMC
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 ,FX
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=fx&f=.m3u8
 #EXTINF:-1,SPACE
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=space&f=.m3u8
