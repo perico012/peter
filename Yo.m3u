@@ -45,7 +45,6 @@ https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=discoverychan
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=nationalgeo&f=.m3u8
 #EXTINF:-1,ANIMAL PLANET
 https://blackghost.live/pl
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/televisabajio.png"group-title="BrEiTV.COM 01", TELEVISA DEL BAJIO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/canalbajio/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/canal5televisa.png"group-title="BrEiTV.COM 01", CANAL 5 TELEVISA en Vivo Online Gratis
@@ -289,7 +288,6 @@ http://ps3u.ga/m3u/Lista01/latinos/nationalwill/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/ae/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/animalplanet.png"group-title="BrEiTV.COM 01", ANIMAL PLANET en vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/animalplanet/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/a-_thumb_30mhdv66.png"group-title="BrEiTV.com 02 Mexico",AMAS MX
 http://ps3u.ga/m3u/Lista02/amas/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/azteca-uno_thumb_ovpv81x9.png"group-title="BrEiTV.com 02 Mexico",Azteca UNO MX
@@ -438,7 +436,6 @@ http://ps3u.ga/m3u/Lista02/winplus/index.m3u8
 http://ps3u.ga/m3u/Lista02/ufc/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/wwe_thumb.png"group-title="BrEiTV.com 02 Latinos",WWE
 http://ps3u.ga/m3u/Lista02/wwe/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/azcorazon_thumb_sw3o5qr9.png"group-title="BrEiTV.com 02 Premium",AZ Corazon
 http://ps3u.ga/m3u/Lista02/azcorazon/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/a-e_thumb_iqddjt70.png"group-title="BrEiTV.com 02 Premium",A&amp;E
@@ -619,7 +616,6 @@ http://ps3u.ga/m3u/Lista02/tmtv/index.m3u8
 http://ps3u.ga/m3u/Lista02/vh1/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/videorola_thumb.png"group-title="BrEiTV.com 02 Premium",Video Rola
 http://ps3u.ga/m3u/Lista02/musicaurbana/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/baby-tv_thumb_wrjoz9en.png"group-title="BrEiTV.com 02 Infantiles",BABY TV
 http://ps3u.ga/m3u/Lista02/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/baby-first_thumb_dt40hu7t.png"group-title="BrEiTV.com 02 Infantiles",BABY FIRTS
