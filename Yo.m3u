@@ -117,107 +117,88 @@ http://ps3u.ga/m3u/Lista01/latinos/axn/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/amc/index.m3u8
 #EXTINF:-1 , TCM LATINO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/tcm/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/syfy.png"group-title="BrEiTV.COM 01", SYFY LATINO en Vivo Online Gratis
+#EXTINF:-1 , SYFY LATINO 
 http://ps3u.ga/m3u/Lista01/latinos/syfy/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/fxm.png"group-title="BrEiTV.COM 01", FXM en Vivo Online Gratis
+#EXTINF:-1 , FXM 
 http://ps3u.ga/m3u/Lista01/latinos/fxm/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/fx.png"group-title="BrEiTV.COM 01", FX en Vivo Online Gratis
+#EXTINF:-1 , FX en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/fx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/space.png"group-title="BrEiTV.COM 01", SPACE en Vivo Online Gratis
+#EXTINF:-1 , SPACE en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/space/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/comedycentrallatino.png"group-title="BrEiTV.COM 01", COMEDY CENTRAL LATINO en Vivo Online Gratis
+#EXTINF:-1 , COMEDY CENTRAL LATINO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/comedycentral/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/paramountlatino.png"group-title="BrEiTV.COM 01", PARAMOUNT CHANNEL LATINO en Vivo Online Gratis
+#EXTINF:-1 , PARAMOUNT CHANNEL LATINO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/paramountchannel/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/sony.png"group-title="BrEiTV.COM 01", SONY en Vivo Online Gratis
+#EXTINF:-1 , SONY en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/sony/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/tbs.png"group-title="BrEiTV.COM 01", TBS en Vivo Online Gratis
+#EXTINF:-1 , TBS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/tbs/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/studiouniversal.png"group-title="BrEiTV.COM 01", STUDIO UNIVERSAL en Vivo Online Gratis
+#EXTINF:-1 , STUDIO UNIVERSAL en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/studiouniversal/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/universalchannel.png"group-title="BrEiTV.COM 01", UNIVERSAL CHANNEL en Vivo Online Gratis
+#EXTINF:-1 , UNIVERSAL CHANNEL en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/universalchannel/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/warner.png"group-title="BrEiTV.COM 01", WARNER en Vivo Online Gratis
+#EXTINF:-1 , WARNER en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/warner/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/depelicula.png"group-title="BrEiTV.COM 01", DE PELICULA en Vivo Online Gratis
+#EXTINF:-1 , DE PELICULA en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/depelicula/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/distritocomedia.png"group-title="BrEiTV.COM 01", DISTRITO COMEDIA en Vivo Online Gratis
+#EXTINF:-1 , DISTRITO COMEDIA en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/distritocomedia/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/laliga.png"group-title="BrEiTV.COM 01", LALIGA en directo Online Gratis
+#EXTINF:-1 , LA LIGA en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/movistar-laliga/live.php/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/campeones.png"group-title="BrEiTV.COM 01", LIGA CAMPEONES en directo Online Gratis
+#EXTINF:-1 , LIGA CAMPEONES en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/movistar-ligacampeones/live.php/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/deportes.png"group-title="BrEiTV.COM 01", MOVISTAR DEPORTES en directo Online Gratis
+#EXTINF:-1 , MOVISTAR DEPORTES en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/movistar-deportes/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/golf.png"group-title="BrEiTV.COM 01", GOLF en directo Online Gratis
+#EXTINF:-1 , GOLF en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/movistar-golf/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/dazn.png"group-title="BrEiTV.COM 01", DAZN en directo Online Gratis
+#EXTINF:-1 , DAZN en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/dazn/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/vamos.png"group-title="BrEiTV.COM 01", #VAMOS en directo Online Gratis
+#EXTINF:-1 ,VAMOS
 http://ps3u.ga/m3u/Lista01/deportes/vamos/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/goltv.png"group-title="BrEiTV.COM 01", GOLTV en directo Online Gratis
+#EXTINF:-1 , GOLTV 
 http://ps3u.ga/m3u/Lista01/deportes/goltv/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/motogp.png"group-title="BrEiTV.COM 01", MOTO GP en directo Online Gratis
+#EXTINF:-1 , MOTO GP
 http://ps3u.ga/m3u/Lista01/deportes/motogp/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/formula1.png"group-title="BrEiTV.COM 01", FORMULA 1 en directo Online Gratis
+#EXTINF:-1 , FORMULA 1
 http://ps3u.ga/m3u/Lista01/deportes/formula1/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/eurosport1.png"group-title="BrEiTV.COM 01", EUROSPORT 1 en directo Online Gratis
+#EXTINF:-1 , EUROSPORT 1 en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/eurosport1/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/eurosport2.png"group-title="BrEiTV.COM 01", EUROSPORT 2 en directo Online Gratis
+#EXTINF:-1 , EUROSPORT 2 en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/eurosport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/barcatv.png"group-title="BrEiTV.COM 01", BARCA TV en directo Online Gratis
+#EXTINF:-1 , BARCA TV en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/barcatv/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/realmadridtv.png"group-title="BrEiTV.COM 01", REAL MADRID TV en directo Online Gratis
+#EXTINF:-1 , REAL MADRID TV en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/realmadridtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/teledeporte.png"group-title="BrEiTV.COM 01", TELEDEPORTE en directo Online Gratis
+#EXTINF:-1 , TELEDEPORTE en directo Online Gratis
 http://ps3u.ga/m3u/Lista01/deportes/teledeporte/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/directvsports.png"group-title="BrEiTV.COM 01", DIRECTV SPORTS en Vivo Online Gratis
+#EXTINF:-1 , DIRECTV SPORTS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/directv-sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/directvsports2.png"group-title="BrEiTV.COM 01", DIRECTV SPORTS 2 en Vivo Online Gratis
+#EXTINF:-1 , DIRECTV SPORTS 2 en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/directv-sports2/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/tntsports.png"group-title="BrEiTV.COM 01", TNT SPORTS en Vivo Online Gratis
+#EXTINF:-1 , TNT SPORTS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/tnt-sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/fox-sports-premium1.png"group-title="BrEiTV.COM 01", FOX SPORTS PREMIUM en Vivo Online Gratis
+#EXTINF:-1 , FOX SPORTS PREMIUM en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/fox-sports-premium/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports1ar.png"group-title="BrEiTV.COM 01", FOX SPORTS ARGENTINA en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/fox-sports1ar/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports2ar.png"group-title="BrEiTV.COM 01", FOX SPORTS 2 ARGENTINA en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/fox-sports2ar/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports3ar.png"group-title="BrEiTV.COM 01", FOX SPORTS 3 ARGENTINA en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/fox-sports3ar/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports1mx.png"group-title="BrEiTV.COM 01", FOX SPORTS MEXICO en Vivo Online Gratis
+#EXTINF:-1 , FOX SPORTS MEXICO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/fox-sports1mx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports2mx.png"group-title="BrEiTV.COM 01", FOX SPORTS 2 MEXICO en Vivo Online Gratis
+#EXTINF:-1 , FOX SPORTS 2 MEXICO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/fox-sports2mx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/foxsports3mx.png"group-title="BrEiTV.COM 01", FOX SPORTS 3 MEXICO en Vivo Online Gratis
+#EXTINF:-1 , FOX SPORTS 3 MEXICO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/fox-sports3mx/index.m3u8
-http://ps3u.ga/m3u/Lista01/latinos/espn1mx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/espn2mx.png"group-title="BrEiTV.COM 01", ESPN 2 MEXICO en Vivo Online Gratis
+#EXTINF:-1 , ESPN 2 MEXICO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/espn2mx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/espn3mx.png"group-title="BrEiTV.COM 01", ESPN 3 MEXICO en Vivo Online Gratis
+#EXTINF:-1 , ESPN 3 MEXICO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/espn3mx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/espnmasar.png"group-title="BrEiTV.COM 01", ESPN + ARGENTINA en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/espn+ar/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/tyc.png"group-title="BrEiTV.COM 01", TYC SPORTS en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/tyc/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/goltvlatino.png"group-title="BrEiTV.COM 01", GOLTV en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/goltvlatino/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/beinlatino.png"group-title="BrEiTV.COM 01", BEIN Ñ en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/beinlatino/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/aym.png"group-title="BrEiTV.COM 01", AYM SPORTS en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/aymsports/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/univisiondeportes.png"group-title="BrEiTV.COM 01", UNIVISION DEPORTES en Vivo Online Gratis
+#EXTINF:-1 , UNIVISION DEPORTES en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/univisiondeportes/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/golperu.png"group-title="BrEiTV.COM 01", GOL PERU en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/golperu/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/win.png"group-title="BrEiTV.COM 01", WIN SPORTS en Vivo Online Gratis
+#EXTINF:-1 , WIN SPORTS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/winsports/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/cdf.png"group-title="BrEiTV.COM 01", CDF en Vivo Online Gratis
+#EXTINF:-1 , CDF en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/cdfpremium/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/adrenalinatv.png"group-title="BrEiTV.COM 01", ADRENALINA SPORTS en Vivo Online Gratis
+#EXTINF:-1 , ADRENALINA SPORTS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/adrenalinatv/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/golflatino.png"group-title="BrEiTV.COM 01", GOLF CHANNEL en Vivo Online Gratis
-http://ps3u.ga/m3u/Lista01/latinos/golf/index.m3u8
 #EXTINF:-1 , TUDN 
 http://ps3u.ga/m3u/Lista01/latinos/tudn/index.m3u8
 #EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/cartoonnetwork.png"group-title="BrEiTV.COM 01", cartoon network en vivo
@@ -614,3 +595,139 @@ http://supersonictv.live:25461/tv/tv/61219
 http://supersonictv.live:25461/tv/tv/61220
 #EXTINF:-1 ,MX ADN40 HD
 http://supersonictv.live:25461/tv/tv/61221
+#EXTINF:-1 group-title="Lista 02",AZMUNDO
+https://blackghost.live/play/codeplus1-609.php?c=a01n
+#EXTINF:-1 group-title="Lista 02",Azteca 1
+https://blackghost.live/play/codeplus1-609.php?c=a00f
+#EXTINF:-1 group-title="Lista 02",Canal E
+https://blackghost.live/play/codeplus1-609.php?c=a01t
+#EXTINF:-1 group-title="Lista 02",Canal de las estrellas
+https://blackghost.live/play/codeplus1-609.php?c=a01g
+#EXTINF:-1 group-title="Lista 02",Cinecanal
+https://blackghost.live/play/codeplus1-609.php?c=a00r
+#EXTINF:-1 group-title="Lista 02",DISNEY JR
+https://blackghost.live/play/codeplus1-609.php?c=a01i
+#EXTINF:-1 group-title="Lista 02",Discovery Channel
+https://blackghost.live/play/codeplus1-609.php?c=a008
+#EXTINF:-1 group-title="Lista 02",Discovery Civilization
+https://blackghost.live/play/codeplus1-609.php?c=a01f
+#EXTINF:-1 group-title="Lista 02",Discovery HH
+https://blackghost.live/play/codeplus1-609.php?c=a002
+#EXTINF:-1 group-title="Lista 02",Distrito Comedia
+https://blackghost.live/play/codeplus1-609.php?c=a01m
+#EXTINF:-1 group-title="Lista 02",ESPN +
+https://blackghost.live/play/codeplus1-609.php?c=a00bb
+#EXTINF:-1 group-title="Lista 02",ESPN 2 HD
+https://blackghost.live/play/codeplus1-609.php?c=a00c
+#EXTINF:-1 group-title="Lista 02",ESPN 3 HD
+https://blackghost.live/play/codeplus1-609.php?c=a00v
+#EXTINF:-1 group-title="Lista 02",ESPN DEPORTES
+https://blackghost.live/play/codeplus1-609.php?c=a02g
+#EXTINF:-1 group-title="Lista 02",ESPN HD eth1
+https://blackghost.live/play/codeplus1-609.php?c=a00b
+#EXTINF:-1 group-title="Lista 02",EWNTV
+https://blackghost.live/play/codeplus1-609.php?c=a00y
+#EXTINF:-1 group-title="Lista 02",FOX FAMILy
+https://blackghost.live/play/codeplus1-609.php?c=a026
+#EXTINF:-1 group-title="Lista 02",FX
+https://blackghost.live/play/codeplus1-609.php?c=a029
+#EXTINF:-1 group-title="Lista 02",FoodNetwork ether1
+https://blackghost.live/play/codeplus1-609.php?c=a01p
+#EXTINF:-1 group-title="Lista 02",Fox Cinema
+https://blackghost.live/play/codeplus1-609.php?c=a028
+#EXTINF:-1 group-title="Lista 02",Fox MX HD
+https://blackghost.live/play/codeplus1-609.php?c=a02b
+#EXTINF:-1 group-title="Lista 02",Fox Movies
+https://blackghost.live/play/codeplus1-609.php?c=a027
+#EXTINF:-1 group-title="Lista 02",Fox Sports 2
+https://blackghost.live/play/codeplus1-609.php?c=a00h
+#EXTINF:-1 group-title="Lista 02",Fox Sports 3
+https://blackghost.live/play/codeplus1-609.php?c=a00j
+#EXTINF:-1 group-title="Lista 02",Glizt
+https://blackghost.live/play/codeplus1-609.php?c=a011
+#EXTINF:-1 group-title="Lista 02",HBO PLUS HD
+https://blackghost.live/play/codeplus1-609.php?c=a01b
+#EXTINF:-1 group-title="Lista 02",HBO Plus
+https://blackghost.live/play/codeplus1-609.php?c=a02e
+#EXTINF:-1 group-title="Lista 02",HTV
+https://blackghost.live/play/codeplus1-609.php?c=a01j
+#EXTINF:-1 group-title="Lista 02",LifeTime
+https://blackghost.live/play/codeplus1-609.php?c=a025
+#EXTINF:-1 group-title="Lista 02",Natgeo
+https://blackghost.live/play/codeplus1-609.php?c=a015
+#EXTINF:-1 group-title="Lista 02",Paramount
+https://blackghost.live/play/codeplus1-609.php?c=a02d
+#EXTINF:-1 group-title="Lista 02",Rai Italia
+https://blackghost.live/play/codeplus1-609.php?c=a00u
+#EXTINF:-1 group-title="Lista 02",SONYHD
+https://blackghost.live/play/codeplus1-609.php?c=a01o
+#EXTINF:-1 group-title="Lista 02",TLNOVELAS
+https://blackghost.live/play/codeplus1-609.php?c=a02h
+#EXTINF:-1 group-title="Lista 02",TUDN
+https://blackghost.live/play/codeplus1-609.php?c=a00k
+#EXTINF:-1 group-title="Lista 02",TVE
+https://blackghost.live/play/codeplus1-609.php?c=a00x
+#EXTINF:-1 group-title="Lista 02",Unan
+https://blackghost.live/play/codeplus1-609.php?c=a010
+#EXTINF:-1 group-title="Lista 02",Unicable
+https://blackghost.live/play/codeplus1-609.php?c=a01h
+#EXTINF:-1 group-title="Lista 02",VH1 HD
+https://blackghost.live/play/codeplus1-609.php?c=a02i
+#EXTINF:-1 group-title="Lista MX1", A3CINE
+https://blackghost.live/play/totalp1-609.php?c=3112&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", TBS SD
+https://blackghost.live/play/totalp1-609.php?c=81&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", DE PELICULA +
+https://blackghost.live/play/totalp1-609.php?c=121&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", GOLDEN +
+https://blackghost.live/play/totalp1-609.php?c=122&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", GOLDEN
+https://blackghost.live/play/totalp1-609.php?c=123&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", GOLDEN EDGE
+https://blackghost.live/play/totalp1-609.php?c=124&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", TNT
+https://blackghost.live/play/totalp1-609.php?c=126&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", TCM
+https://blackghost.live/play/totalp1-609.php?c=128&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", SPACE
+https://blackghost.live/play/totalp1-609.php?c=129&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", AMC
+https://blackghost.live/play/totalp1-609.php?c=131&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", STUDIO UNIVERSAL
+https://blackghost.live/play/totalp1-609.php?c=132&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", I SAT
+https://blackghost.live/play/totalp1-609.php?c=135&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", EUROPA CHANNEL
+https://blackghost.live/play/totalp1-609.php?c=136&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FILMS & ARTS
+https://blackghost.live/play/totalp1-609.php?c=137&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FXM
+https://blackghost.live/play/totalp1-609.php?c=138&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FXM SD
+https://blackghost.live/play/totalp1-609.php?c=332&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FOX SERIES
+https://blackghost.live/play/totalp1-609.php?c=139&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", MORBIDO
+https://blackghost.live/play/totalp1-609.php?c=140&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FOX MOVIES
+https://blackghost.live/play/totalp1-609.php?c=146&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", CINECANAL
+https://blackghost.live/play/totalp1-609.php?c=149&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", CINEMAX
+https://blackghost.live/play/totalp1-609.php?c=158&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", AMC
+https://blackghost.live/play/totalp1-609.php?c=328&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", DE PELICULA SD
+https://blackghost.live/play/totalp1-609.php?c=335&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FOX ACTION
+https://blackghost.live/play/totalp1-609.php?c=336&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", PARAMOUNT CHANNEL
+https://blackghost.live/play/totalp1-609.php?c=1726&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FOX CINEMA SD
+https://blackghost.live/play/totalp1-609.php?c=1729&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", FOX CLASSICS SD
+https://blackghost.live/play/totalp1-609.php?c=1732&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Lista MX1", AZ CINEMA
+https://blackghost.live/play/totalp1-609.php?c=1787&p=3&k=black&f=.m3u8
+
+
