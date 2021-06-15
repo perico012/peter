@@ -1,4 +1,5 @@
 #EXTM3U
+LISTA NEGRA
 #EXTINF:-1 ,STAR CINEMA
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=foxcinema&f=.m3u8
 #EXTINF:-1 ,CINEMAX
@@ -43,6 +44,7 @@ https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=history2&f=.m
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=discoverychannel&f=.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 https://blackghost.live/play/wistream-bglve-615.php?cat=latinos&ch=nationalgeo&f=.m3u8
+LISTA 01
 #EXTINF:-1 , AZTECA 1
 http://ps3u.ga/m3u/Lista01/latinos/azteca/index.m3u8
 #EXTINF:-1 , AZTECA SIETE 
@@ -265,6 +267,7 @@ http://ps3u.ga/m3u/Lista01/latinos/ae/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/animalplanet/index.m3u8
 #EXTINF:-1 ,AMAS MX
 http://ps3u.ga/m3u/Lista02/amas/index.m3u8
+LISTA O2
 #EXTINF:-1 ,Azteca UNO MX
 http://ps3u.ga/m3u/Lista02/aztecauno/index.m3u8
 #EXTINF:-1 ,EL DOS MX
@@ -533,6 +536,7 @@ http://ps3u.ga/m3u/Lista02/animalp/index.m3u8
 http://ps3u.ga/m3u/Lista02/discovery/index.m3u8
 #EXTINF:-1 ,D CIENCIA
 http://ps3u.ga/m3u/Lista02/dciencia/index.m3u8
+#EXTINF:-1 ,D THEATER
 http://ps3u.ga/m3u/Lista02/dtheater/index.m3u8
 #EXTINF:-1 ,D TURBO
 http://ps3u.ga/m3u/Lista02/dturbo/index.m3u8
@@ -583,12 +587,13 @@ http://ps3u.ga/m3u/Lista02/teennick/index.m3u8
 #EXTINF:-1 ,TOONCAST
 http://ps3u.ga/m3u/Lista02/tooncast/index.m3u8
 #EXTINF:-1 ,MX A Plus
+LISTA SONIC
 http://supersonictv.live:25461/tv/tv/61218
 #EXTINF:-1 ,MX A&E HD
 http://supersonictv.live:25461/tv/tv/61219
 #EXTINF:-1 ,MX A3 Series HD
 http://supersonictv.live:25461/tv/tv/61220
-#EXTM3U
+LISTA RG
 #EXTINF:-1  group-title="Lista TV", EIN SPORTS
 http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=winhd&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", UNIVERSO
