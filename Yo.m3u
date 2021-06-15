@@ -95,13 +95,13 @@ http://ps3u.ga/m3u/Lista01/latinos/maxprime/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/maxlatino/index.m3u8
 #EXTINF:-1 , HBO POP 
 http://ps3u.ga/m3u/Lista01/latinos/maxup/index.m3u8
-#EXTINF:-1 , GOLDEN en Vivo 
+#EXTINF:-1 , GOLDEN 
 http://ps3u.ga/m3u/Lista01/latinos/golden/index.m3u8
 #EXTINF:-1 , GOLDEN PLUS 
 http://ps3u.ga/m3u/Lista01/latinos/goldenplus/index.m3u8
 #EXTINF:-1 , GOLDEN EDGE 
 http://ps3u.ga/m3u/Lista01/latinos/goldenedge/index.m3u8
-#EXTINF:-1 , CINEMAX en Vivo Online Gratis
+#EXTINF:-1 , CINEMAX 
 http://ps3u.ga/m3u/Lista01/latinos/cinemax/index.m3u8
 #EXTINF:-1 , CINECANAL 
 http://ps3u.ga/m3u/Lista01/latinos/cinecanal/index.m3u8
@@ -173,7 +173,7 @@ http://ps3u.ga/m3u/Lista01/deportes/teledeporte/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/directv-sports/index.m3u8
 #EXTINF:-1 , DIRECTV SPORTS 2 
 http://ps3u.ga/m3u/Lista01/latinos/directv-sports2/index.m3u8
-#EXTINF:-1 , TNT SPORTS en Vivo Online Gratis
+#EXTINF:-1 , TNT SPORTS 
 http://ps3u.ga/m3u/Lista01/latinos/tnt-sports/index.m3u8
 #EXTINF:-1 , FOX SPORTS PREMIUM 
 http://ps3u.ga/m3u/Lista01/latinos/fox-sports-premium/index.m3u8
@@ -187,9 +187,9 @@ http://ps3u.ga/m3u/Lista01/latinos/fox-sports3mx/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/espn2mx/index.m3u8
 #EXTINF:-1 , ESPN 3 MEXICO 
 http://ps3u.ga/m3u/Lista01/latinos/espn3mx/index.m3u8
-#EXTINF:-1 , UNIVISION DEPORTES en Vivo Online Gratis
+#EXTINF:-1 , UNIVISION DEPORTES 
 http://ps3u.ga/m3u/Lista01/latinos/univisiondeportes/index.m3u8
-#EXTINF:-1 , GOL PERU en Vivo Online Gratis
+#EXTINF:-1 , GOL PERU 
 http://ps3u.ga/m3u/Lista01/latinos/golperu/index.m3u8
 #EXTINF:-1 , WIN SPORTS 
 http://ps3u.ga/m3u/Lista01/latinos/winsports/index.m3u8
@@ -209,7 +209,7 @@ http://ps3u.ga/m3u/Lista01/infantiles/disneyjunior/index.m3u8
 http://ps3u.ga/m3u/Lista01/infantiles/disneyxd/index.m3u8
 #EXTINF:-1 , DISNEY CHANNEL
 http://ps3u.ga/m3u/Lista01/infantiles/disneychannel/index.m3u8
-#EXTINF:-1 , nick en vivo
+#EXTINF:-1 ,NICK
 http://ps3u.ga/m3u/Lista01/infantiles/nick/index.m3u8
 #EXTINF:-1 , NICKTOONS
 http://ps3u.ga/m3u/Lista01/infantiles/nicktoons/index.m3u8
@@ -235,33 +235,33 @@ http://ps3u.ga/m3u/Lista01/latinos/cazavision/index.m3u8
 http://ps3u.ga/m3u/Lista01/espana/cocina/index.m3u8
 #EXTINF:-1 , HISTORY en vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/history/index.m3u8
-#EXTINF:-1 , HISTORY 2 en vivo Online Gratis
+#EXTINF:-1 , HISTORY 2
 http://ps3u.ga/m3u/Lista01/latinos/history2/index.m3u8
 #EXTINF:-1 , DISCOVERY CHANNEL en vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/discoverychannel/index.m3u8
-#EXTINF:-1 , DISCOVERY TLC en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY TLC 
 http://ps3u.ga/m3u/Lista01/latinos/tlc/index.m3u8
-#EXTINF:-1 , DISCOVERY HGTV en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY HGTV 
 http://ps3u.ga/m3u/Lista01/latinos/hgtv/index.m3u8
-#EXTINF:-1 , DISCOVERY TURBO en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY TURBO
 http://ps3u.ga/m3u/Lista01/latinos/discoveryturbo/index.m3u8
-#EXTINF:-1 , DISCOVERY THEATER en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY THEATER 
 http://ps3u.ga/m3u/Lista01/latinos/discoverytheater/index.m3u8
-#EXTINF:-1 , DISCOVERY SCIENCIE en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY SCIENCIE 
 http://ps3u.ga/m3u/Lista01/latinos/discoverysciencie/index.m3u8
-#EXTINF:-1 , INVESTIGACION DISCOVERY en vivo Online Gratis
+#EXTINF:-1 , INVESTIGACION DISCOVERY 
 http://ps3u.ga/m3u/Lista01/latinos/discoveryinvestigacion/index.m3u8
-#EXTINF:-1 , DISCOVERY H&H en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY H&H 
 http://ps3u.ga/m3u/Lista01/latinos/discoveryhh/index.m3u8
-#EXTINF:-1 , DISCOVERY WORLD en vivo Online Gratis
+#EXTINF:-1 , DISCOVERY WORLD 
 http://ps3u.ga/m3u/Lista01/latinos/discoveryworl/index.m3u8
-#EXTINF:-1 , NATIONAL GEOGRAPHIC en vivo Online Gratis
+#EXTINF:-1 , NATIONAL GEOGRAPHIC 
 http://ps3u.ga/m3u/Lista01/latinos/nationalgeo/index.m3u8
-#EXTINF:-1 , NAT GEO WILd en vivo Online Gratis
+#EXTINF:-1 , NAT GEO WILD
 http://ps3u.ga/m3u/Lista01/latinos/nationalwill/index.m3u8
-#EXTINF:-1 , A&E en vivo Online Gratis
+#EXTINF:-1 , A&E
 http://ps3u.ga/m3u/Lista01/latinos/ae/index.m3u8
-#EXTINF:-1 , ANIMAL PLANET en vivo Online Gratis
+#EXTINF:-1 , ANIMAL PLANET 
 http://ps3u.ga/m3u/Lista01/latinos/animalplanet/index.m3u8
 #EXTINF:-1 ,AMAS MX
 http://ps3u.ga/m3u/Lista02/amas/index.m3u8
