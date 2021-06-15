@@ -45,23 +45,23 @@ https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=discoverychan
 https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=nationalgeo&f=.m3u8
 #EXTINF:-1,ANIMAL PLANET
 https://blackghost.live/pl
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/azteca.png"group-title="BrEiTV.COM 01", AZTECA 1 en Vivo Online Gratis
+#EXTINF:-1 , AZTECA 1 en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/azteca/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/azteca7.png"group-title="BrEiTV.COM 01", AZTECA SIETE en Vivo Online Gratis
+#EXTINF:-1 , AZTECA SIETE en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/azteca7/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/aztecamas.png"group-title="BrEiTV.COM 01", AZTECA MAS en Vivo Online Gratis
+#EXTINF:-1 , AZTECA MAS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/aztecamas/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/aztecacinema.png"group-title="BrEiTV.COM 01", AZTECA CINEMA en Vivo Online Gratis
+#EXTINF:-1 , AZTECA CINEMA en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/aztecacinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/aztecamundo.png"group-title="BrEiTV.COM 01", AZTECA MUNDO en Vivo Online Gratis
+#EXTINF:-1 , AZTECA MUNDO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/aztecamundo/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/aztecacorazon.png"group-title="BrEiTV.COM 01", AZTECA CORAZON en Vivo Online Gratis
+#EXTINF:-1 , AZTECA CORAZON en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/aztecacorazon/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/canalestrellas.png"group-title="BrEiTV.COM 01", CANAL LAS ESTRELLAS en Vivo Online Gratis
+#EXTINF:-1 , CANAL LAS ESTRELLAS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/canalestrellas/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/telenovelas.png"group-title="BrEiTV.COM 01", TLNOVELAS en Vivo Online Gratis
+#EXTINF:-1 , TLNOVELAS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/telenovelas/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/mtvlatino.png"group-title="BrEiTV.COM 01", MTV LATINO en Vivo Online Gratis
+#EXTINF:-1 , MTV LATINO en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/mtv/index.m3u8
 #EXTINF:-1 , FOX LATINO 
 http://ps3u.ga/m3u/Lista01/latinos/fox/index.m3u8
@@ -191,7 +191,7 @@ http://ps3u.ga/m3u/Lista01/latinos/espn2mx/index.m3u8
 http://ps3u.ga/m3u/Lista01/latinos/espn3mx/index.m3u8
 #EXTINF:-1 , UNIVISION DEPORTES en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/univisiondeportes/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=https://adictosalatele.com/logos/golperu.png"group-title="BrEiTV.COM 01", GOL PERU en Vivo Online Gratis
+#EXTINF:-1 , GOL PERU en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/golperu/index.m3u8
 #EXTINF:-1 , WIN SPORTS en Vivo Online Gratis
 http://ps3u.ga/m3u/Lista01/latinos/winsports/index.m3u8
@@ -411,147 +411,144 @@ http://ps3u.ga/m3u/Lista02/winhd/index.m3u8
 http://ps3u.ga/m3u/Lista02/winplus/index.m3u8
 #EXTINF:-1 ,UFC Network
 http://ps3u.ga/m3u/Lista02/ufc/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/wwe_thumb.png"group-title="BrEiTV.com 02 Latinos",WWE
+#EXTINF:-1 ,WWE
 http://ps3u.ga/m3u/Lista02/wwe/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/azcorazon_thumb_sw3o5qr9.png"group-title="BrEiTV.com 02 Premium",AZ Corazon
+#EXTINF:-1 ,AZ Corazon
 http://ps3u.ga/m3u/Lista02/azcorazon/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/a-e_thumb_iqddjt70.png"group-title="BrEiTV.com 02 Premium",A&amp;E
+#EXTINF:-1 ,A&amp;E
 http://ps3u.ga/m3u/Lista02/ae/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/axn_thumb_5urqr990.png"group-title="BrEiTV.com 02 Premium",AXN
+#EXTINF:-1 ,AXN
 http://ps3u.ga/m3u/Lista02/axn/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/comedy-central_thumb_u0ipdxhy.png"group-title="BrEiTV.com 02 Premium",Comedy Central
+#EXTINF:-1 ,Comedy Central
 http://ps3u.ga/m3u/Lista02/comedy/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/e_thumb_j4n8qk3o.png"group-title="BrEiTV.com 02 Premium",Entertaiment E!
+#EXTINF:-1 ,Entertaiment E!
 http://ps3u.ga/m3u/Lista02/e/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/fx_thumb.png"group-title="BrEiTV.com 02 Premium",FX
+#EXTINF:-1 ,FX
 http://ps3u.ga/m3u/Lista02/fx/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/id-hd_thumb.png"group-title="BrEiTV.com 02 Premium",Investigation D
+#EXTINF:-1 ,Investigation D
 http://ps3u.ga/m3u/Lista02/id/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/lifetime_thumb_7fbx3bhw.png"group-title="BrEiTV.com 02 Premium",LIFETIME
+#EXTINF:-1 ,LIFETIME
 http://ps3u.ga/m3u/Lista02/lifetime/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/pasiones_thumb_2eg26yej.png"group-title="BrEiTV.com 02 Premium",PASIONES
+#EXTINF:-1 ,PASIONES
 http://ps3u.ga/m3u/Lista02/pasiones/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/sony_thumb.png"group-title="BrEiTV.com 02 Premium",SONY Channel
+#EXTINF:-1 ,SONY Channel
 http://ps3u.ga/m3u/Lista02/sony/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tbs_thumb_n3u582wk.png"group-title="BrEiTV.com 02 Premium",TBS
+#EXTINF:-1 ,TBS
 http://ps3u.ga/m3u/Lista02/tbs/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tlc-discovery_thumb_8fte5z9k.png"group-title="BrEiTV.com 02 Premium",TLC
+#EXTINF:-1 ,TLC
 http://ps3u.ga/m3u/Lista02/tlc/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tlnovelas_thumb_r3jbybwi.png"group-title="BrEiTV.com 02 Premium",TLNovelas
+#EXTINF:-1 ,TLNovelas
 http://ps3u.ga/m3u/Lista02/tlnovelas/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tnt-series_thumb_immyhfrl.png"group-title="BrEiTV.com 02 Premium",TNT Series
+#EXTINF:-1 ,TNT Series
 http://ps3u.ga/m3u/Lista02/tntseries/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/true_tv_thumb_p4lmqyg4.png"group-title="BrEiTV.com 02 Premium",TRUTV
+#EXTINF:-1 ,TRUTV
 http://ps3u.ga/m3u/Lista02/trutv/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/universal-channel_thumb_jroni3q3.png"group-title="BrEiTV.com 02 Premium",Universal Channel
+#EXTINF:-1 ,Universal Channel
 http://ps3u.ga/m3u/Lista02/universal/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/wbtv_thumb.png"group-title="BrEiTV.com 02 Premium",Warner TV
+#EXTINF:-1 ,Warner TV
 http://ps3u.ga/m3u/Lista02/warner/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/azcinema_thumb.png"group-title="BrEiTV.com 02 Premium",AZ Cinema
+#EXTINF:-1 ,AZ Cinema
 http://ps3u.ga/m3u/Lista02/azcinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/amc_thumb_4wb3f3kb.png"group-title="BrEiTV.com 02 Premium",AMC
+#EXTINF:-1 ,AMC
 http://ps3u.ga/m3u/Lista02/amc/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/cinecanal--W-_thumb.png"group-title="BrEiTV.com 02 Premium",CINECANAL
+#EXTINF:-1 ,CINECANAL
 http://ps3u.ga/m3u/Lista02/cinecanal/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/cinemax_thumb.png"group-title="BrEiTV.com 02 Premium",CINEMAX
+#EXTINF:-1 ,CINEMAX
 http://ps3u.ga/m3u/Lista02/cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/cinelatino_thumb_6bmlfy3s.png"group-title="BrEiTV.com 02 Premium",Cine Latino
+#EXTINF:-1 ,Cine Latino
 http://ps3u.ga/m3u/Lista02/cinelatino/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/d-pelicula_thumb.png"group-title="BrEiTV.com 02 Premium",D PELICULA
+#EXTINF:-1 ,D PELICULA
 http://ps3u.ga/m3u/Lista02/dpelicula/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/d-pelicula-plus_thumb.png"group-title="BrEiTV.com 02 Premium",D PELICULA PLUS
+#EXTINF:-1 ,D PELICULA PLUS
 http://ps3u.ga/m3u/Lista02/dpeliculaplus/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/europa-europa_thumb.png"group-title="BrEiTV.com 02 Premium",Europa Europa
+#EXTINF:-1 ,Europa Europa
 http://ps3u.ga/m3u/Lista02/europa/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/film-arts_thumb.png"group-title="BrEiTV.com 02 Premium",FILM &amp; ARTS
+#EXTINF:-1 ,FILM &amp; ARTS
 http://ps3u.ga/m3u/Lista02/filmarts/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/fx-movies_thumb_fxwyeryo.png"group-title="BrEiTV.com 02 Premium",FXM
+#EXTINF:-1 ,FXM
 http://ps3u.ga/m3u/Lista02/fxm/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/golden-hd_thumb_fg0re4c3.png"group-title="BrEiTV.com 02 Premium",GOLDEN
+#EXTINF:-1 ,GOLDEN
 http://ps3u.ga/m3u/Lista02/golden/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/golden-edge_thumb_i5vxgghz.png"group-title="BrEiTV.com 02 Premium",Golden EDGE
+#EXTINF:-1 ,Golden EDGE
 http://ps3u.ga/m3u/Lista02/edge/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/golden-plus_thumb_svbnhknz.png"group-title="BrEiTV.com 02 Premium",GOLDEN Plus
+#EXTINF:-1 ,GOLDEN Plus
 http://ps3u.ga/m3u/Lista02/goldenplus/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/golden-premier-hd_thumb_hj1fwcxp.png"group-title="BrEiTV.com 02 Premium",Golden PREMIER
+#EXTINF:-1 ,Golden PREMIER
 http://ps3u.ga/m3u/Lista02/goldenp/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hbo_thumb_tqvduxh9.png"group-title="BrEiTV.com 02 Premium",HBO
+#EXTINF:-1 ,HBO
 http://ps3u.ga/m3u/Lista02/hboes/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hbo-2_thumb_4don4mrz.png"group-title="BrEiTV.com 02 Premium",HBO 2
+#EXTINF:-1 ,HBO 2
 http://ps3u.ga/m3u/Lista02/hbo2/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hboplus_thumb.png"group-title="BrEiTV.com 02 Premium",HBO Plus
+#EXTINF:-1 ,HBO Plus
 http://ps3u.ga/m3u/Lista02/hboplus/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/HBO_Family_thumb.png"group-title="BrEiTV.com 02 Premium",HBO Family
+#EXTINF:-1 ,HBO Family
 http://ps3u.ga/m3u/Lista02/hbofamily/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hbo-pop_thumb_i5mity0f.png"group-title="BrEiTV.com 02 Premium",HBO POP
+#EXTINF:-1 ,HBO POP
 http://ps3u.ga/m3u/Lista02/hbopop/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hbo-signature_thumb_0l9pvjhn.png"group-title="BrEiTV.com 02 Premium",HBO Signature
+#EXTINF:-1 ,HBO Signature
 http://ps3u.ga/m3u/Lista02/hbosignature/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/hbo-xtreme_thumb_l0ee1owh.png"group-title="BrEiTV.com 02 Premium",HBO Xtreme
+#EXTINF:-1 ,HBO Xtreme
 http://ps3u.ga/m3u/Lista02/hboxtreme/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/i.sat_thumb.png"group-title="BrEiTV.com 02 Premium",ISAT
+#EXTINF:-1 ,ISAT
 http://ps3u.ga/m3u/Lista02/isat/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/morbido_thumb_ap21w64t.png"group-title="BrEiTV.com 02 Premium",MORBIDO
+#EXTINF:-1 ,MORBIDO
 http://ps3u.ga/m3u/Lista02/morbido/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/multicinema_thumb.png"group-title="BrEiTV.com 02 Premium",MULTI CINEMA
+#EXTINF:-1 ,MULTI CINEMA
 http://ps3u.ga/m3u/Lista02/mc/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/multipremier_thumb_l3t94fs7.png"group-title="BrEiTV.com 02 Premium",Multipremier
+#EXTINF:-1 ,Multipremier
 http://ps3u.ga/m3u/Lista02/mp/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/paramount-channel_thumb_qlxzzosf.png"group-title="BrEiTV.com 02 Premium",Paramount Channel
+#EXTINF:-1 ,Paramount Channel
 http://ps3u.ga/m3u/Lista02/paramount/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/space_thumb.png"group-title="BrEiTV.com 02 Premium",SPACE
+#EXTINF:-1 ,SPACE
 http://ps3u.ga/m3u/Lista02/space/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-channel_thumb.png"group-title="BrEiTV.com 02 Premium",STAR CHANNEL
+#EXTINF:-1 ,STAR CHANNEL
 http://ps3u.ga/m3u/Lista02/starch/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-action_thumb.png"group-title="BrEiTV.com 02 Premium",STAR ACTION
+#EXTINF:-1 ,STAR ACTION
 http://ps3u.ga/m3u/Lista02/staraction/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-cinema_thumb.png"group-title="BrEiTV.com 02 Premium",STAR CINEMA
+#EXTINF:-1 ,STAR CINEMA
 http://ps3u.ga/m3u/Lista02/starcinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-classics_thumb.png"group-title="BrEiTV.com 02 Premium",STAR CLASSICS
+#EXTINF:-1 ,STAR CLASSICS
 http://ps3u.ga/m3u/Lista02/starclassics/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-comedy_thumb.png"group-title="BrEiTV.com 02 Premium",STAR COMEDY
+#EXTINF:-1 ,STAR COMEDY
 http://ps3u.ga/m3u/Lista02/starcomedy/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-fun_thumb.png"group-title="BrEiTV.com 02 Premium",STAR FUN
+#EXTINF:-1 ,STAR FUN
 http://ps3u.ga/m3u/Lista02/starfun/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-hits_thumb.png"group-title="BrEiTV.com 02 Premium",STAR HITS
+#EXTINF:-1 ,STAR HITS
 http://ps3u.ga/m3u/Lista02/starhits/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-life_thumb.png"group-title="BrEiTV.com 02 Premium",STAR LIFE
+#EXTINF:-1 ,STAR LIFE
 http://ps3u.ga/m3u/Lista02/starlife/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/star-series_thumb.png"group-title="BrEiTV.com 02 Premium",STAR SERIES
+#EXTINF:-1 ,STAR SERIES
 http://ps3u.ga/m3u/Lista02/starseries/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/studio-universal_thumb_n1wwcwxi.png"group-title="BrEiTV.com 02 Premium",STUDIO Universal
+#EXTINF:-1 ,STUDIO Universal
 http://ps3u.ga/m3u/Lista02/studiou/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/syfy_thumb_htcvp5vh.png"group-title="BrEiTV.com 02 Premium",SYFY
+#EXTINF:-1 ,SYFY
 http://ps3u.ga/m3u/Lista02/syfy-1/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tcm_thumb_e7gw2kjo.png"group-title="BrEiTV.com 02 Premium",TCM
+#EXTINF:-1 ,TCM
 http://ps3u.ga/m3u/Lista02/tcm/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/tnt-latino_thumb.png"group-title="BrEiTV.com 02 Premium",TNT
+#EXTINF:-1 ,TNT
 http://ps3u.ga/m3u/Lista02/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/azmundo_thumb_lhk8cvlr.png"group-title="BrEiTV.com 02 Premium",AZ MUNDO
+#EXTINF:-1 ,AZ MUNDO
 http://ps3u.ga/m3u/Lista02/azmundo/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/animal-planet_thumb_mrbgy1sp.png"group-title="BrEiTV.com 02 Premium",ANIMAL Planet
+#EXTINF:-1 ,ANIMAL Planet
 http://ps3u.ga/m3u/Lista02/animalp/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery_thumb.png"group-title="BrEiTV.com 02 Premium",DISCOVERY Channel
+#EXTINF:-1 ,DISCOVERY Channel
 http://ps3u.ga/m3u/Lista02/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery-sciencie_thumb.png"group-title="BrEiTV.com 02 Premium",D CIENCIA
+#EXTINF:-1 ,D CIENCIA
 http://ps3u.ga/m3u/Lista02/dciencia/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery-civilization_thumb.png"group-title="BrEiTV.com 02 Premium",D Civilization
-http://ps3u.ga/m3u/Lista02/dcivil/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery-theather-hd_thumb_6arb3wik.png"group-title="BrEiTV.com 02 Premium",D THEATER
 http://ps3u.ga/m3u/Lista02/dtheater/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery-turbo_thumb_pgkr8vd2.png"group-title="BrEiTV.com 02 Premium",D TURBO
+#EXTINF:-1 ,D TURBO
 http://ps3u.ga/m3u/Lista02/dturbo/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/discovery-world_thumb_i8bvbo5m.png"group-title="BrEiTV.com 02 Premium",D WORLD
+#EXTINF:-1 ,D WORLD
 http://ps3u.ga/m3u/Lista02/dworld/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/food-network_thumb_7k9yufid.png"group-title="BrEiTV.com 02 Premium",FOOD Network
+#EXTINF:-1 ,FOOD Network
 http://ps3u.ga/m3u/Lista02/food/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/gourmet2_thumb_fqqrs7lp.png"group-title="BrEiTV.com 02 Premium",GOURMET
+#EXTINF:-1 ,GOURMET
 http://ps3u.ga/m3u/Lista02/gourmet/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/history-channel_thumb.png"group-title="BrEiTV.com 02 Premium",HISTORY
+#EXTINF:-1 ,HISTORY
 http://ps3u.ga/m3u/Lista02/history/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/h2_thumb_zzivatjq.png"group-title="BrEiTV.com 02 Premium",H2
+#EXTINF:-1 ,H2
 http://ps3u.ga/m3u/Lista02/history2/index.m3u8
-#EXTINF:-1 tvg-logo="http://ps3u.ga/BrEiTV_TV-Master-https-www-breitv-com-contenido-https-www-breitv-com-contenido-https-www-breitv-com-contenido.php?id=http://televall.radiotormentamx.com/gallery/home-and-health_thumb_d8yqqweh.png"group-title="BrEiTV.com 02 Premium",Home &amp; Health
+#EXTINF:-1 ,Home &amp; Health
 http://ps3u.ga/m3u/Lista02/hh/index.m3u8
 #EXTINF:-1 ,NATGEO
 http://ps3u.ga/m3u/Lista02/natgeo/index.m3u8
