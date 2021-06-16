@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 ,FOX
 http://ps3u.ga/m3u/Lista01/latinos/fox/index.m3u8
 #EXTINF:-1 , FOX PREMIUM ACTION 
 http://ps3u.ga/m3u/Lista01/latinos/foxaction/index.m3u8
