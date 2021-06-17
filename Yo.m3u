@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 ,AMAS MX
-http://ps3u.ga/m3u/Lista02/amas/index.m3u8
-#EXTINF:-1 ,Azteca UNO MX
-http://ps3u.ga/m3u/Lista02/aztecauno/index.m3u8
-#EXTINF:-1 ,EL DOS MX
-http://ps3u.ga/m3u/Lista02/eldos/index.m3u8
-#EXTINF:-1 ,CANAL 5 MX
-http://ps3u.ga/m3u/Lista02/elcinco/index.m3u8
-#EXTINF:-1 ,AZTECA 7 MX
-http://ps3u.ga/m3u/Lista02/azteca7/index.m3u8
-#EXTINF:-1 ,NUEVE MX
-http://ps3u.ga/m3u/Lista02/nueve/index.m3u8
-#EXTINF:-1 ,Distrito Comedia
-http://ps3u.ga/m3u/Lista02/distrito/index.m3u8
-#EXTINF:-1 ,IMAGEN TV
-http://ps3u.ga/m3u/Lista02/imagentv/index.m3u8
-#EXTINF:-1 ,Unicable MX
-http://ps3u.ga/m3u/Lista02/unicable/index.m3u8
+#EXTINF:-1 ,MILENIO TV
+https://www.youtube.com/watch?v=ugRpT2CqqCA
+#EXTINF:-1 ,FORO TV
+https://www.youtube.com/watch?v=9RzOKoaDnC8
+#EXTINF:-1 ,IMAGEN TELEVISION
+https://www.youtube.com/watch?v=FuVIctEwUdY
+#EXTINF:-1 ,UNO TV
+https://www.youtube.com/watch?v=9wSKujCTGws
+#EXTINF:-1 ,MULTIMEDIOS
+https://www.youtube.com/watch?v=ttkJHdhrUag
+#EXTINF:-1 ,ADN 40
+https://www.youtube.com/watch?v=UKsX8l6f578
+#EXTINF:-1 ,TELEDIARIO CDMX
+https://www.youtube.com/watch?v=G0CqCQTkoQw
+#EXTINF:-1 ,CARTOON NETWORK
+https://www.youtube.com/watch?v=2qB6M0FvaY4
+#EXTINF:-1 ,WB KIDS
+https://www.youtube.com/watch?v=kbJtsU0VjFM
 #EXTINF:-1 ,MEXIQUENSE
 http://ps3u.ga/m3u/Lista02/mexiquense/index.m3u8
 #EXTINF:-1 ,MULTIMEDIOS Mty
@@ -275,33 +275,4 @@ http://ps3u.ga/m3u/Lista02/hh/index.m3u8
 http://ps3u.ga/m3u/Lista02/natgeo/index.m3u8
 #EXTINF:-1 ,Natgeo WILD
 http://ps3u.ga/m3u/Lista02/natgeowild/index.m3u8
-#EXTINF:-1 ,AZ CLIC
-http://ps3u.ga/m3u/Lista02/azclic/index.m3u8
-#EXTINF:-1 ,BABY TV
-http://ps3u.ga/m3u/Lista02/babytv/index.m3u8
-#EXTINF:-1 ,BABY FIRTS
-http://ps3u.ga/m3u/Lista02/babyfirts/index.m3u8
-#EXTINF:-1 ,BITME
-http://ps3u.ga/m3u/Lista02/bitme/index.m3u8
-#EXTINF:-1 ,Boomerang
-http://ps3u.ga/m3u/Lista02/boomerang/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://ps3u.ga/m3u/Lista02/cartoon/index.m3u8
-#EXTINF:-1 ,Disney Channel
-http://ps3u.ga/m3u/Lista02/disneych/index.m3u8
-#EXTINF:-1 ,Disney Junior
-http://ps3u.ga/m3u/Lista02/disneyjr/index.m3u8
-#EXTINF:-1 ,Disney XD
-http://ps3u.ga/m3u/Lista02/disneyxd/index.m3u8
-#EXTINF:-1 ,D KIDS
-http://ps3u.ga/m3u/Lista02/dkids/index.m3u8
-#EXTINF:-1 ,Natgeo KIDS
-http://ps3u.ga/m3u/Lista02/natgeokids/index.m3u8
-#EXTINF:-1 ,NICK
-http://ps3u.ga/m3u/Lista02/nick/index.m3u8
-#EXTINF:-1 ,NICK JR
-http://ps3u.ga/m3u/Lista02/nickjr/index.m3u8
-#EXTINF:-1 ,TEEN NICK
-http://ps3u.ga/m3u/Lista02/teennick/index.m3u8
-#EXTINF:-1 ,TOONCAST
-http://ps3u.ga/m3u/Lista02/tooncast/index.m3u8
+
