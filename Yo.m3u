@@ -1,678 +1,199 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MX A Plus" tvg-logo="" group-title="MEXICAN",MX A Plus
-http://supersonictv.live:25461/tv/tv/61218
-#EXTINF:-1 tvg-id="" tvg-name="MX A&E HD" tvg-logo="" group-title="MEXICAN",MX A&E HD
-http://supersonictv.live:25461/tv/tv/61219
-#EXTINF:-1 tvg-id="" tvg-name="MX A3 Series HD" tvg-logo="" group-title="MEXICAN",MX A3 Series HD
-http://supersonictv.live:25461/tv/tv/61220
-#EXTINF:-1 tvg-id="" tvg-name="MX ADN40 HD" tvg-logo="" group-title="MEXICAN",MX ADN40 HD
-http://supersonictv.live:25461/tv/tv/61221
-#EXTINF:-1 tvg-id="" tvg-name="MX Al Jazeera HD" tvg-logo="" group-title="MEXICAN",MX Al Jazeera HD
-http://supersonictv.live:25461/tv/tv/61222
-#EXTINF:-1 tvg-id="" tvg-name="MX AMC HD" tvg-logo="" group-title="MEXICAN",MX AMC HD
-http://supersonictv.live:25461/tv/tv/61223
-#EXTINF:-1 tvg-id="" tvg-name="MX Animal Planet HD" tvg-logo="" group-title="MEXICAN",MX Animal Planet HD
-http://supersonictv.live:25461/tv/tv/61224
-#EXTINF:-1 tvg-id="" tvg-name="MX Antena 3 HD" tvg-logo="" group-title="MEXICAN",MX Antena 3 HD
-http://supersonictv.live:25461/tv/tv/61225
-#EXTINF:-1 tvg-id="" tvg-name="MX AXN HD" tvg-logo="" group-title="MEXICAN",MX AXN HD
-http://supersonictv.live:25461/tv/tv/61226
-#EXTINF:-1 tvg-id="" tvg-name="MX AYM Sports" tvg-logo="" group-title="MEXICAN",MX AYM Sports
-http://supersonictv.live:25461/tv/tv/61227
-#EXTINF:-1 tvg-id="" tvg-name="MX AZ Cinema HD" tvg-logo="" group-title="MEXICAN",MX AZ Cinema HD
-http://supersonictv.live:25461/tv/tv/61228
-#EXTINF:-1 tvg-id="" tvg-name="MX AZ Click B1" tvg-logo="" group-title="MEXICAN",MX AZ Click B1
-http://supersonictv.live:25461/tv/tv/61229
-#EXTINF:-1 tvg-id="" tvg-name="MX Az Click SD" tvg-logo="" group-title="MEXICAN",MX Az Click SD
-http://supersonictv.live:25461/tv/tv/61230
-#EXTINF:-1 tvg-id="" tvg-name="MX AZ Corazon HD" tvg-logo="" group-title="MEXICAN",MX AZ Corazon HD
-http://supersonictv.live:25461/tv/tv/61231
-#EXTINF:-1 tvg-id="" tvg-name="MX AZ Corazon SD" tvg-logo="" group-title="MEXICAN",MX AZ Corazon SD
-http://supersonictv.live:25461/tv/tv/61232
-#EXTINF:-1 tvg-id="" tvg-name="MX AZ Mundo HD" tvg-logo="" group-title="MEXICAN",MX AZ Mundo HD
-http://supersonictv.live:25461/tv/tv/61233
-#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo="" group-title="MEXICAN",MX Azteca 7 HD
-http://supersonictv.live:25461/tv/tv/61234
-#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 SD" tvg-logo="" group-title="MEXICAN",MX Azteca 7 SD
-http://supersonictv.live:25461/tv/tv/61235
-#EXTINF:-1 tvg-id="" tvg-name="MX Azteca Deportes HD" tvg-logo="" group-title="MEXICAN",MX Azteca Deportes HD
-http://supersonictv.live:25461/tv/tv/61236
-#EXTINF:-1 tvg-id="" tvg-name="MX Azteca Uno HD B1" tvg-logo="" group-title="MEXICAN",MX Azteca Uno HD B1
-http://supersonictv.live:25461/tv/tv/61237
-#EXTINF:-1 tvg-id="" tvg-name="MX Baby TV HD" tvg-logo="" group-title="MEXICAN",MX Baby TV HD
-http://supersonictv.live:25461/tv/tv/61238
-#EXTINF:-1 tvg-id="" tvg-name="MX Bandamax" tvg-logo="" group-title="MEXICAN",MX Bandamax
-http://supersonictv.live:25461/tv/tv/61239
-#EXTINF:-1 tvg-id="" tvg-name="MX BBC World News" tvg-logo="" group-title="MEXICAN",MX BBC World News
-http://supersonictv.live:25461/tv/tv/61240
-#EXTINF:-1 tvg-id="" tvg-name="MX Bloomberg B1 HD" tvg-logo="" group-title="MEXICAN",MX Bloomberg B1 HD
-http://supersonictv.live:25461/tv/tv/61241
-#EXTINF:-1 tvg-id="" tvg-name="MX Bloomberg HD" tvg-logo="" group-title="MEXICAN",MX Bloomberg HD
-http://supersonictv.live:25461/tv/tv/61242
-#EXTINF:-1 tvg-id="" tvg-name="MX Boomerang HD" tvg-logo="" group-title="MEXICAN",MX Boomerang HD
-http://supersonictv.live:25461/tv/tv/61243
-#EXTINF:-1 tvg-id="" tvg-name="MX Cadena H HD" tvg-logo="" group-title="MEXICAN",MX Cadena H HD
-http://supersonictv.live:25461/tv/tv/61244
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 2" tvg-logo="" group-title="MEXICAN",MX Canal 2
-http://supersonictv.live:25461/tv/tv/61245
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 26 HD" tvg-logo="" group-title="MEXICAN",MX Canal 26 HD
-http://supersonictv.live:25461/tv/tv/61246
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 4 HD" tvg-logo="" group-title="MEXICAN",MX Canal 4 HD
-http://supersonictv.live:25461/tv/tv/61247
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 5 HD" tvg-logo="" group-title="MEXICAN",MX Canal 5 HD
-http://supersonictv.live:25461/tv/tv/61248
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal 8 HD" tvg-logo="" group-title="MEXICAN",MX Canal 8 HD
-http://supersonictv.live:25461/tv/tv/61249
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal de las Estrellas HD" tvg-logo="" group-title="MEXICAN",MX Canal de las Estrellas HD
-http://supersonictv.live:25461/tv/tv/61250
-#EXTINF:-1 tvg-id="" tvg-name="MX Canal Judicial HD" tvg-logo="" group-title="MEXICAN",MX Canal Judicial HD
-http://supersonictv.live:25461/tv/tv/61251
-#EXTINF:-1 tvg-id="" tvg-name="MX Cartoon Network HD" tvg-logo="" group-title="MEXICAN",MX Cartoon Network HD
-http://supersonictv.live:25461/tv/tv/61252
-#EXTINF:-1 tvg-id="" tvg-name="MX Cinecanal HD" tvg-logo="" group-title="MEXICAN",MX Cinecanal HD
-http://supersonictv.live:25461/tv/tv/61253
-#EXTINF:-1 tvg-id="" tvg-name="MX Cinemax HD" tvg-logo="" group-title="MEXICAN",MX Cinemax HD
-http://supersonictv.live:25461/tv/tv/61254
-#EXTINF:-1 tvg-id="" tvg-name="MX CNN en Espa" tvg-logo="" group-title="MEXICAN",MX CNN en Espa
-http://supersonictv.live:25461/tv/tv/61255
-#EXTINF:-1 tvg-id="" tvg-name="MX CNN International" tvg-logo="" group-title="MEXICAN",MX CNN International
-http://supersonictv.live:25461/tv/tv/61256
-#EXTINF:-1 tvg-id="" tvg-name="MX Comedy Central HD" tvg-logo="" group-title="MEXICAN",MX Comedy Central HD
-http://supersonictv.live:25461/tv/tv/61257
-#EXTINF:-1 tvg-id="" tvg-name="MX De Pelicula" tvg-logo="" group-title="MEXICAN",MX De Pelicula
-http://supersonictv.live:25461/tv/tv/61258
-#EXTINF:-1 tvg-id="" tvg-name="MX De Pelicula Plus HD" tvg-logo="" group-title="MEXICAN",MX De Pelicula Plus HD
-http://supersonictv.live:25461/tv/tv/61259
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Channel HD" tvg-logo="" group-title="MEXICAN",MX Discovery Channel HD
-http://supersonictv.live:25461/tv/tv/61260
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Civilization" tvg-logo="" group-title="MEXICAN",MX Discovery Civilization
-http://supersonictv.live:25461/tv/tv/61261
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery H&H HD" tvg-logo="" group-title="MEXICAN",MX Discovery H&H HD
-http://supersonictv.live:25461/tv/tv/61262
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Kids" tvg-logo="" group-title="MEXICAN",MX Discovery Kids
-http://supersonictv.live:25461/tv/tv/61263
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Science" tvg-logo="" group-title="MEXICAN",MX Discovery Science
-http://supersonictv.live:25461/tv/tv/61264
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Theater HD" tvg-logo="" group-title="MEXICAN",MX Discovery Theater HD
-http://supersonictv.live:25461/tv/tv/61265
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Turbo HD" tvg-logo="" group-title="MEXICAN",MX Discovery Turbo HD
-http://supersonictv.live:25461/tv/tv/61266
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery World HD" tvg-logo="" group-title="MEXICAN",MX Discovery World HD
-http://supersonictv.live:25461/tv/tv/61267
-#EXTINF:-1 tvg-id="" tvg-name="MX Disney Channel" tvg-logo="" group-title="MEXICAN",MX Disney Channel
-http://supersonictv.live:25461/tv/tv/61268
-#EXTINF:-1 tvg-id="" tvg-name="MX Disney Jr." tvg-logo="" group-title="MEXICAN",MX Disney Jr.
-http://supersonictv.live:25461/tv/tv/61269
-#EXTINF:-1 tvg-id="" tvg-name="MX Disney XD" tvg-logo="" group-title="MEXICAN",MX Disney XD
-http://supersonictv.live:25461/tv/tv/61270
-#EXTINF:-1 tvg-id="" tvg-name="MX Distrito Comedia" tvg-logo="" group-title="MEXICAN",MX Distrito Comedia
-http://supersonictv.live:25461/tv/tv/61271
-#EXTINF:-1 tvg-id="" tvg-name="MX DW" tvg-logo="" group-title="MEXICAN",MX DW
-http://supersonictv.live:25461/tv/tv/61272
-#EXTINF:-1 tvg-id="" tvg-name="MX E! Entertainment HD" tvg-logo="" group-title="MEXICAN",MX E! Entertainment HD
-http://supersonictv.live:25461/tv/tv/61273
-#EXTINF:-1 tvg-id="" tvg-name="MX El Gourmet HD" tvg-logo="" group-title="MEXICAN",MX El Gourmet HD
-http://supersonictv.live:25461/tv/tv/61274
-#EXTINF:-1 tvg-id="" tvg-name="MX Espn 2 HD" tvg-logo="" group-title="MEXICAN",MX Espn 2 HD
-http://supersonictv.live:25461/tv/tv/61275
-#EXTINF:-1 tvg-id="" tvg-name="MX Espn 3" tvg-logo="" group-title="MEXICAN",MX Espn 3
-http://supersonictv.live:25461/tv/tv/61276
-#EXTINF:-1 tvg-id="" tvg-name="MX Espn HD" tvg-logo="" group-title="MEXICAN",MX Espn HD
-http://supersonictv.live:25461/tv/tv/61277
-#EXTINF:-1 tvg-id="" tvg-name="MX Espn Plus HD" tvg-logo="" group-title="MEXICAN",MX Espn Plus HD
-http://supersonictv.live:25461/tv/tv/61278
-#EXTINF:-1 tvg-id="" tvg-name="MX Espn U HD" tvg-logo="" group-title="MEXICAN",MX Espn U HD
-http://supersonictv.live:25461/tv/tv/61279
-#EXTINF:-1 tvg-id="" tvg-name="MX Europa Europa" tvg-logo="" group-title="MEXICAN",MX Europa Europa
-http://supersonictv.live:25461/tv/tv/61280
-#EXTINF:-1 tvg-id="" tvg-name="MX Excelsior TV HD" tvg-logo="" group-title="MEXICAN",MX Excelsior TV HD
-http://supersonictv.live:25461/tv/tv/61281
-#EXTINF:-1 tvg-id="" tvg-name="MX Film & Arts" tvg-logo="" group-title="MEXICAN",MX Film & Arts
-http://supersonictv.live:25461/tv/tv/61282
-#EXTINF:-1 tvg-id="" tvg-name="MX Food Network HD" tvg-logo="" group-title="MEXICAN",MX Food Network HD
-http://supersonictv.live:25461/tv/tv/61283
-#EXTINF:-1 tvg-id="" tvg-name="MX Formula Noticias" tvg-logo="" group-title="MEXICAN",MX Formula Noticias
-http://supersonictv.live:25461/tv/tv/61284
-#EXTINF:-1 tvg-id="" tvg-name="MX Foro TV HD" tvg-logo="" group-title="MEXICAN",MX Foro TV HD
-http://supersonictv.live:25461/tv/tv/61285
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox" tvg-logo="" group-title="MEXICAN",MX Fox
-http://supersonictv.live:25461/tv/tv/61286
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Action HD" tvg-logo="" group-title="MEXICAN",MX Fox Action HD
-http://supersonictv.live:25461/tv/tv/61287
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Cinema" tvg-logo="" group-title="MEXICAN",MX Fox Cinema
-http://supersonictv.live:25461/tv/tv/61288
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Classics" tvg-logo="" group-title="MEXICAN",MX Fox Classics
-http://supersonictv.live:25461/tv/tv/61289
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox HD" tvg-logo="" group-title="MEXICAN",MX Fox HD
-http://supersonictv.live:25461/tv/tv/61290
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Life HD" tvg-logo="" group-title="MEXICAN",MX Fox Life HD
-http://supersonictv.live:25461/tv/tv/61291
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Movies HD" tvg-logo="" group-title="MEXICAN",MX Fox Movies HD
-http://supersonictv.live:25461/tv/tv/61292
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox News HD" tvg-logo="" group-title="MEXICAN",MX Fox News HD
-http://supersonictv.live:25461/tv/tv/61293
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Series HD" tvg-logo="" group-title="MEXICAN",MX Fox Series HD
-http://supersonictv.live:25461/tv/tv/61294
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 2 HD" tvg-logo="" group-title="MEXICAN",MX Fox Sports 2 HD
-http://supersonictv.live:25461/tv/tv/61295
-#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 3 HD" tvg-logo="" group-title="MEXICAN",MX Fox Sports 3 HD
-http://supersonictv.live:25461/tv/tv/61296
-#EXTINF:-1 tvg-id="" tvg-name="MX FoxSports 1 Mexico" tvg-logo="" group-title="MEXICAN",MX FoxSports 1 Mexico
-http://supersonictv.live:25461/tv/tv/61297
-#EXTINF:-1 tvg-id="" tvg-name="MX Francia 24 HD" tvg-logo="" group-title="MEXICAN",MX Francia 24 HD
-http://supersonictv.live:25461/tv/tv/61298
-#EXTINF:-1 tvg-id="" tvg-name="MX FX HD" tvg-logo="" group-title="MEXICAN",MX FX HD
-http://supersonictv.live:25461/tv/tv/61299
-#EXTINF:-1 tvg-id="" tvg-name="MX FXM HD" tvg-logo="" group-title="MEXICAN",MX FXM HD
-http://supersonictv.live:25461/tv/tv/61300
-#EXTINF:-1 tvg-id="" tvg-name="MX Garage TV" tvg-logo="" group-title="MEXICAN",MX Garage TV
-http://supersonictv.live:25461/tv/tv/61301
-#EXTINF:-1 tvg-id="" tvg-name="MX Glitz" tvg-logo="" group-title="MEXICAN",MX Glitz
-http://supersonictv.live:25461/tv/tv/61302
-#EXTINF:-1 tvg-id="" tvg-name="MX Golden" tvg-logo="" group-title="MEXICAN",MX Golden
-http://supersonictv.live:25461/tv/tv/61303
-#EXTINF:-1 tvg-id="" tvg-name="MX Golden Edge" tvg-logo="" group-title="MEXICAN",MX Golden Edge
-http://supersonictv.live:25461/tv/tv/61304
-#EXTINF:-1 tvg-id="" tvg-name="MX Golden Plus HD" tvg-logo="" group-title="MEXICAN",MX Golden Plus HD
-http://supersonictv.live:25461/tv/tv/61305
-#EXTINF:-1 tvg-id="" tvg-name="MX History HD" tvg-logo="" group-title="MEXICAN",MX History HD
-http://supersonictv.live:25461/tv/tv/61306
-#EXTINF:-1 tvg-id="" tvg-name="MX HLN HD" tvg-logo="" group-title="MEXICAN",MX HLN HD
-http://supersonictv.live:25461/tv/tv/61307
-#EXTINF:-1 tvg-id="" tvg-name="MX Hola TV HD" tvg-logo="" group-title="MEXICAN",MX Hola TV HD
-http://supersonictv.live:25461/tv/tv/61308
-#EXTINF:-1 tvg-id="" tvg-name="MX Investigation Discovery HD" tvg-logo="" group-title="MEXICAN",MX Investigation Discovery HD
-http://supersonictv.live:25461/tv/tv/61309
-#EXTINF:-1 tvg-id="" tvg-name="MX Investigation Discovery SD" tvg-logo="" group-title="MEXICAN",MX Investigation Discovery SD
-http://supersonictv.live:25461/tv/tv/61310
-#EXTINF:-1 tvg-id="" tvg-name="MX Isat" tvg-logo="" group-title="MEXICAN",MX Isat
-http://supersonictv.live:25461/tv/tv/61311
-#EXTINF:-1 tvg-id="" tvg-name="MX Lifetime HD" tvg-logo="" group-title="MEXICAN",MX Lifetime HD
-http://supersonictv.live:25461/tv/tv/61312
-#EXTINF:-1 tvg-id="" tvg-name="MX Mas Chic HD" tvg-logo="" group-title="MEXICAN",MX Mas Chic HD
-http://supersonictv.live:25461/tv/tv/61313
-#EXTINF:-1 tvg-id="" tvg-name="MX Milenio TV HD" tvg-logo="" group-title="MEXICAN",MX Milenio TV HD
-http://supersonictv.live:25461/tv/tv/61314
-#EXTINF:-1 tvg-id="" tvg-name="MX MTV HD" tvg-logo="" group-title="MEXICAN",MX MTV HD
-http://supersonictv.live:25461/tv/tv/61315
-#EXTINF:-1 tvg-id="" tvg-name="MX MTV Hits" tvg-logo="" group-title="MEXICAN",MX MTV Hits
-http://supersonictv.live:25461/tv/tv/61316
-#EXTINF:-1 tvg-id="" tvg-name="MX MTV Live HD" tvg-logo="" group-title="MEXICAN",MX MTV Live HD
-http://supersonictv.live:25461/tv/tv/61317
-#EXTINF:-1 tvg-id="" tvg-name="MX Multimedios HD" tvg-logo="" group-title="MEXICAN",MX Multimedios HD
-http://supersonictv.live:25461/tv/tv/61318
-#EXTINF:-1 tvg-id="" tvg-name="MX Multimedios Plus HD" tvg-logo="" group-title="MEXICAN",MX Multimedios Plus HD
-http://supersonictv.live:25461/tv/tv/61319
-#EXTINF:-1 tvg-id="" tvg-name="MX Nat Geo Kids HD" tvg-logo="" group-title="MEXICAN",MX Nat Geo Kids HD
-http://supersonictv.live:25461/tv/tv/61320
-#EXTINF:-1 tvg-id="" tvg-name="MX Nat Geo Wild HD" tvg-logo="" group-title="MEXICAN",MX Nat Geo Wild HD
-http://supersonictv.live:25461/tv/tv/61321
-#EXTINF:-1 tvg-id="" tvg-name="MX National Geographic" tvg-logo="" group-title="MEXICAN",MX National Geographic
-http://supersonictv.live:25461/tv/tv/61322
-#EXTINF:-1 tvg-id="" tvg-name="MX NBC Golf HD" tvg-logo="" group-title="MEXICAN",MX NBC Golf HD
-http://supersonictv.live:25461/tv/tv/61323
-#EXTINF:-1 tvg-id="" tvg-name="MX Nick 2 HD" tvg-logo="" group-title="MEXICAN",MX Nick 2 HD
-http://supersonictv.live:25461/tv/tv/61324
-#EXTINF:-1 tvg-id="" tvg-name="MX Nick Jr." tvg-logo="" group-title="MEXICAN",MX Nick Jr.
-http://supersonictv.live:25461/tv/tv/61325
-#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon HD" tvg-logo="" group-title="MEXICAN",MX Nickelodeon HD
-http://supersonictv.live:25461/tv/tv/61326
-#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon SD" tvg-logo="" group-title="MEXICAN",MX Nickelodeon SD
-http://supersonictv.live:25461/tv/tv/61327
-#EXTINF:-1 tvg-id="" tvg-name="MX Nicktoons" tvg-logo="" group-title="MEXICAN",MX Nicktoons
-http://supersonictv.live:25461/tv/tv/61328
-#EXTINF:-1 tvg-id="" tvg-name="MX NTN24" tvg-logo="" group-title="MEXICAN",MX NTN24
-http://supersonictv.live:25461/tv/tv/61329
-#EXTINF:-1 tvg-id="" tvg-name="MX Paramount Channel HD" tvg-logo="" group-title="MEXICAN",MX Paramount Channel HD
-http://supersonictv.live:25461/tv/tv/61330
-#EXTINF:-1 tvg-id="" tvg-name="MX RMS" tvg-logo="" group-title="MEXICAN",MX RMS
-http://supersonictv.live:25461/tv/tv/61331
-#EXTINF:-1 tvg-id="" tvg-name="MX SEC Network HD" tvg-logo="" group-title="MEXICAN",MX SEC Network HD
-http://supersonictv.live:25461/tv/tv/61332
-#EXTINF:-1 tvg-id="" tvg-name="MX Sony Channel HD" tvg-logo="" group-title="MEXICAN",MX Sony Channel HD
-http://supersonictv.live:25461/tv/tv/61333
-#EXTINF:-1 tvg-id="" tvg-name="MX Space HD" tvg-logo="" group-title="MEXICAN",MX Space HD
-http://supersonictv.live:25461/tv/tv/61334
-#EXTINF:-1 tvg-id="" tvg-name="MX Star TVE HD" tvg-logo="" group-title="MEXICAN",MX Star TVE HD
-http://supersonictv.live:25461/tv/tv/61335
-#EXTINF:-1 tvg-id="" tvg-name="MX Studio Universal HD" tvg-logo="" group-title="MEXICAN",MX Studio Universal HD
-http://supersonictv.live:25461/tv/tv/61336
-#EXTINF:-1 tvg-id="" tvg-name="MX Studio Universal HD B2" tvg-logo="" group-title="MEXICAN",MX Studio Universal HD B2
-http://supersonictv.live:25461/tv/tv/61337
-#EXTINF:-1 tvg-id="" tvg-name="MX Sundance TV HD" tvg-logo="" group-title="MEXICAN",MX Sundance TV HD
-http://supersonictv.live:25461/tv/tv/61338
-#EXTINF:-1 tvg-id="" tvg-name="MX SyFy HD" tvg-logo="" group-title="MEXICAN",MX SyFy HD
-http://supersonictv.live:25461/tv/tv/61339
-#EXTINF:-1 tvg-id="" tvg-name="MX TBS" tvg-logo="" group-title="MEXICAN",MX TBS
-http://supersonictv.live:25461/tv/tv/61340
-#EXTINF:-1 tvg-id="" tvg-name="MX TCM" tvg-logo="" group-title="MEXICAN",MX TCM
-http://supersonictv.live:25461/tv/tv/61341
-#EXTINF:-1 tvg-id="" tvg-name="MX TDN HD" tvg-logo="" group-title="MEXICAN",MX TDN HD
-http://supersonictv.live:25461/tv/tv/61342
-#EXTINF:-1 tvg-id="" tvg-name="MX Telehit Plus HD" tvg-logo="" group-title="MEXICAN",MX Telehit Plus HD
-http://supersonictv.live:25461/tv/tv/61343
-#EXTINF:-1 tvg-id="" tvg-name="MX Telenovelas" tvg-logo="" group-title="MEXICAN",MX Telenovelas
-http://supersonictv.live:25461/tv/tv/61344
-#EXTINF:-1 tvg-id="" tvg-name="MX Televisa Pueblo HD" tvg-logo="" group-title="MEXICAN",MX Televisa Pueblo HD
-http://supersonictv.live:25461/tv/tv/61345
-#EXTINF:-1 tvg-id="" tvg-name="MX TLC HD" tvg-logo="" group-title="MEXICAN",MX TLC HD
-http://supersonictv.live:25461/tv/tv/61346
-#EXTINF:-1 tvg-id="" tvg-name="MX TLR" tvg-logo="" group-title="MEXICAN",MX TLR
-http://supersonictv.live:25461/tv/tv/61347
-#EXTINF:-1 tvg-id="" tvg-name="MX TNT HD" tvg-logo="" group-title="MEXICAN",MX TNT HD
-http://supersonictv.live:25461/tv/tv/61348
-#EXTINF:-1 tvg-id="" tvg-name="MX TNT Series HD" tvg-logo="" group-title="MEXICAN",MX TNT Series HD
-http://supersonictv.live:25461/tv/tv/61349
-#EXTINF:-1 tvg-id="" tvg-name="MX Tooncast" tvg-logo="" group-title="MEXICAN",MX Tooncast
-http://supersonictv.live:25461/tv/tv/61350
-#EXTINF:-1 tvg-id="" tvg-name="MX TP AZTECA UNO  SD" tvg-logo="" group-title="MEXICAN",MX TP AZTECA UNO  SD
-http://supersonictv.live:25461/tv/tv/61351
-#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL Once" tvg-logo="" group-title="MEXICAN",MX TP CANAL Once
-http://supersonictv.live:25461/tv/tv/61352
-#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL109" tvg-logo="" group-title="MEXICAN",MX TP CANAL109
-http://supersonictv.live:25461/tv/tv/61353
-#EXTINF:-1 tvg-id="" tvg-name="MX TP CANAL113" tvg-logo="" group-title="MEXICAN",MX TP CANAL113
-http://supersonictv.live:25461/tv/tv/61354
-#EXTINF:-1 tvg-id="" tvg-name="MX TP Fox Sports 1 HD" tvg-logo="" group-title="MEXICAN",MX TP Fox Sports 1 HD
-http://supersonictv.live:25461/tv/tv/61355
-#EXTINF:-1 tvg-id="" tvg-name="MX Tru TV HD" tvg-logo="" group-title="MEXICAN",MX Tru TV HD
-http://supersonictv.live:25461/tv/tv/61356
-#EXTINF:-1 tvg-id="" tvg-name="MX TV Mas HD" tvg-logo="" group-title="MEXICAN",MX TV Mas HD
-http://supersonictv.live:25461/tv/tv/61357
-#EXTINF:-1 tvg-id="" tvg-name="MX TVE" tvg-logo="" group-title="MEXICAN",MX TVE
-http://supersonictv.live:25461/tv/tv/61358
-#EXTINF:-1 tvg-id="" tvg-name="MX TVO D HD" tvg-logo="" group-title="MEXICAN",MX TVO D HD
-http://supersonictv.live:25461/tv/tv/61359
-#EXTINF:-1 tvg-id="" tvg-name="MX TVO HD" tvg-logo="" group-title="MEXICAN",MX TVO HD
-http://supersonictv.live:25461/tv/tv/61360
-#EXTINF:-1 tvg-id="" tvg-name="MX Unicable HD" tvg-logo="" group-title="MEXICAN",MX Unicable HD
-http://supersonictv.live:25461/tv/tv/61361
-#EXTINF:-1 tvg-id="" tvg-name="MX VH1" tvg-logo="" group-title="MEXICAN",MX VH1
-http://supersonictv.live:25461/tv/tv/61362
-#EXTINF:-1 tvg-id="" tvg-name="MX VH1 Classic" tvg-logo="" group-title="MEXICAN",MX VH1 Classic
-http://supersonictv.live:25461/tv/tv/61363
-#EXTINF:-1 tvg-id="" tvg-name="MX VH1 HD" tvg-logo="" group-title="MEXICAN",MX VH1 HD
-http://supersonictv.live:25461/tv/tv/61364
-#EXTINF:-1 tvg-id="" tvg-name="MX Warner HD" tvg-logo="" group-title="MEXICAN",MX Warner HD
-http://supersonictv.live:25461/tv/tv/61365
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) NU9VE TV" tvg-logo="" group-title="MEXICAN",MX (HD) NU9VE TV
-http://supersonictv.live:25461/tv/tv/61366
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP AFORE AZTECA" tvg-logo="" group-title="MEXICAN",MX (HD) TP AFORE AZTECA
-http://supersonictv.live:25461/tv/tv/61367
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP IMAGEN TV." tvg-logo="" group-title="MEXICAN",MX (HD) TP IMAGEN TV.
-http://supersonictv.live:25461/tv/tv/61368
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="" group-title="MEXICAN",MX (HD) TP LAS ESTRELLAS
-http://supersonictv.live:25461/tv/tv/61369
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP Mexiquice" tvg-logo="" group-title="MEXICAN",MX (HD) TP Mexiquice
-http://supersonictv.live:25461/tv/tv/61370
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP NAT GEO" tvg-logo="" group-title="MEXICAN",MX (HD) TP NAT GEO
-http://supersonictv.live:25461/tv/tv/61371
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP PX Sports" tvg-logo="" group-title="MEXICAN",MX (HD) TP PX Sports
-http://supersonictv.live:25461/tv/tv/61372
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP SENDERO" tvg-logo="" group-title="MEXICAN",MX (HD) TP SENDERO
-http://supersonictv.live:25461/tv/tv/61373
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL1944" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL1944
-http://supersonictv.live:25461/tv/tv/61374
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2089" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL2089
-http://supersonictv.live:25461/tv/tv/61375
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2331" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL2331
-http://supersonictv.live:25461/tv/tv/61376
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL2355" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL2355
-http://supersonictv.live:25461/tv/tv/61377
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL401" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL401
-http://supersonictv.live:25461/tv/tv/61378
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP TP CANAL470" tvg-logo="" group-title="MEXICAN",MX (HD) TP TP CANAL470
-http://supersonictv.live:25461/tv/tv/61379
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP VTV" tvg-logo="" group-title="MEXICAN",MX (HD) TP VTV
-http://supersonictv.live:25461/tv/tv/61380
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD)  NU9VE TV" tvg-logo="" group-title="MEXICAN",MX (SD)  NU9VE TV
-http://supersonictv.live:25461/tv/tv/61381
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) ANIMAL PLANET" tvg-logo="" group-title="MEXICAN",MX (SD) ANIMAL PLANET
-http://supersonictv.live:25461/tv/tv/61382
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) Excelsior TV" tvg-logo="" group-title="MEXICAN",MX (SD) Excelsior TV
-http://supersonictv.live:25461/tv/tv/61383
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) LIFETIME" tvg-logo="" group-title="MEXICAN",MX (SD) LIFETIME
-http://supersonictv.live:25461/tv/tv/61384
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP  MTV HITS" tvg-logo="" group-title="MEXICAN",MX (SD) TP  MTV HITS
-http://supersonictv.live:25461/tv/tv/61385
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP A&E" tvg-logo="" group-title="MEXICAN",MX (SD) TP A&E
-http://supersonictv.live:25461/tv/tv/61386
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ADN40" tvg-logo="" group-title="MEXICAN",MX (SD) TP ADN40
-http://supersonictv.live:25461/tv/tv/61387
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AL JAZZERA" tvg-logo="" group-title="MEXICAN",MX (SD) TP AL JAZZERA
-http://supersonictv.live:25461/tv/tv/61388
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ANTENA3" tvg-logo="" group-title="MEXICAN",MX (SD) TP ANTENA3
-http://supersonictv.live:25461/tv/tv/61389
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AXN" tvg-logo="" group-title="MEXICAN",MX (SD) TP AXN
-http://supersonictv.live:25461/tv/tv/61390
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AYM Sport" tvg-logo="" group-title="MEXICAN",MX (SD) TP AYM Sport
-http://supersonictv.live:25461/tv/tv/61391
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA 1" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA 1
-http://supersonictv.live:25461/tv/tv/61392
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CINEMA" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA CINEMA
-http://supersonictv.live:25461/tv/tv/61393
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CLICK" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA CLICK
-http://supersonictv.live:25461/tv/tv/61394
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CORAZON" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA CORAZON
-http://supersonictv.live:25461/tv/tv/61395
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA CORAZON_" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA CORAZON_
-http://supersonictv.live:25461/tv/tv/61396
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Azteca Deportes" tvg-logo="" group-title="MEXICAN",MX (SD) TP Azteca Deportes
-http://supersonictv.live:25461/tv/tv/61397
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA MUNDO" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA MUNDO
-http://supersonictv.live:25461/tv/tv/61398
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA7" tvg-logo="" group-title="MEXICAN",MX (SD) TP AZTECA7
-http://supersonictv.live:25461/tv/tv/61399
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BABY FIRST" tvg-logo="" group-title="MEXICAN",MX (SD) TP BABY FIRST
-http://supersonictv.live:25461/tv/tv/61400
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BANDAMAX" tvg-logo="" group-title="MEXICAN",MX (SD) TP BANDAMAX
-http://supersonictv.live:25461/tv/tv/61401
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BBC WORLD NEWS" tvg-logo="" group-title="MEXICAN",MX (SD) TP BBC WORLD NEWS
-http://supersonictv.live:25461/tv/tv/61402
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BLOMMBERG" tvg-logo="" group-title="MEXICAN",MX (SD) TP BLOMMBERG
-http://supersonictv.live:25461/tv/tv/61403
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BLOOMBERG" tvg-logo="" group-title="MEXICAN",MX (SD) TP BLOOMBERG
-http://supersonictv.live:25461/tv/tv/61404
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP BOOMERANG" tvg-logo="" group-title="MEXICAN",MX (SD) TP BOOMERANG
-http://supersonictv.live:25461/tv/tv/61405
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Cadena H" tvg-logo="" group-title="MEXICAN",MX (SD) TP Cadena H
-http://supersonictv.live:25461/tv/tv/61406
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CADEND TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP CADEND TV
-http://supersonictv.live:25461/tv/tv/61407
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 26" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL 26
-http://supersonictv.live:25461/tv/tv/61408
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 4" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL 4
-http://supersonictv.live:25461/tv/tv/61409
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 5" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL 5
-http://supersonictv.live:25461/tv/tv/61410
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 7" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL 7
-http://supersonictv.live:25461/tv/tv/61411
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 8" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL 8
-http://supersonictv.live:25461/tv/tv/61412
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL DE LAS ESTRELLAS
-http://supersonictv.live:25461/tv/tv/61413
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL JUDICIAL" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL JUDICIAL
-http://supersonictv.live:25461/tv/tv/61414
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL107" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL107
-http://supersonictv.live:25461/tv/tv/61415
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL109" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL109
-http://supersonictv.live:25461/tv/tv/61416
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1749" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL1749
-http://supersonictv.live:25461/tv/tv/61417
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1899" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL1899
-http://supersonictv.live:25461/tv/tv/61418
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1932" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL1932
-http://supersonictv.live:25461/tv/tv/61419
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL1944" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL1944
-http://supersonictv.live:25461/tv/tv/61420
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2062" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL2062
-http://supersonictv.live:25461/tv/tv/61421
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2278" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL2278
-http://supersonictv.live:25461/tv/tv/61422
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL2319" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL2319
-http://supersonictv.live:25461/tv/tv/61423
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL317" tvg-logo="" group-title="MEXICAN",MX (SD) TP CANAL317
-http://supersonictv.live:25461/tv/tv/61424
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CARTOON NETWORK" tvg-logo="" group-title="MEXICAN",MX (SD) TP CARTOON NETWORK
-http://supersonictv.live:25461/tv/tv/61425
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CINECANAL" tvg-logo="" group-title="MEXICAN",MX (SD) TP CINECANAL
-http://supersonictv.live:25461/tv/tv/61426
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CNN ESP_" tvg-logo="" group-title="MEXICAN",MX (SD) TP CNN ESP_
-http://supersonictv.live:25461/tv/tv/61427
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CNN INT" tvg-logo="" group-title="MEXICAN",MX (SD) TP CNN INT
-http://supersonictv.live:25461/tv/tv/61428
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP COMEDY CENTRAL" tvg-logo="" group-title="MEXICAN",MX (SD) TP COMEDY CENTRAL
-http://supersonictv.live:25461/tv/tv/61429
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DE PELICULA" tvg-logo="" group-title="MEXICAN",MX (SD) TP DE PELICULA
-http://supersonictv.live:25461/tv/tv/61430
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DE PELICULA_" tvg-logo="" group-title="MEXICAN",MX (SD) TP DE PELICULA_
-http://supersonictv.live:25461/tv/tv/61431
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY CHANNEL" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY CHANNEL
-http://supersonictv.live:25461/tv/tv/61432
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY CIVILIZATION" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY CIVILIZATION
-http://supersonictv.live:25461/tv/tv/61433
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY H&H" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY H&H
-http://supersonictv.live:25461/tv/tv/61434
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY ID" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY ID
-http://supersonictv.live:25461/tv/tv/61435
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY KIDS" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY KIDS
-http://supersonictv.live:25461/tv/tv/61436
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY SCI" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY SCI
-http://supersonictv.live:25461/tv/tv/61437
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY TH" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY TH
-http://supersonictv.live:25461/tv/tv/61438
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY TURBO" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY TURBO
-http://supersonictv.live:25461/tv/tv/61439
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISCOVERY WORLD" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISCOVERY WORLD
-http://supersonictv.live:25461/tv/tv/61440
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY CHANNEL" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISNEY CHANNEL
-http://supersonictv.live:25461/tv/tv/61441
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY JR" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISNEY JR
-http://supersonictv.live:25461/tv/tv/61442
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISNEY XD" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISNEY XD
-http://supersonictv.live:25461/tv/tv/61443
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DISTRITO COMEDIA" tvg-logo="" group-title="MEXICAN",MX (SD) TP DISTRITO COMEDIA
-http://supersonictv.live:25461/tv/tv/61444
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP DW" tvg-logo="" group-title="MEXICAN",MX (SD) TP DW
-http://supersonictv.live:25461/tv/tv/61445
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP E!" tvg-logo="" group-title="MEXICAN",MX (SD) TP E!
-http://supersonictv.live:25461/tv/tv/61446
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP El Gourmet" tvg-logo="" group-title="MEXICAN",MX (SD) TP El Gourmet
-http://supersonictv.live:25461/tv/tv/61447
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN
-http://supersonictv.live:25461/tv/tv/61448
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 2" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN 2
-http://supersonictv.live:25461/tv/tv/61449
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 3" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN 3
-http://supersonictv.live:25461/tv/tv/61450
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN NETWORK" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN NETWORK
-http://supersonictv.live:25461/tv/tv/61451
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN PLUS" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN PLUS
-http://supersonictv.live:25461/tv/tv/61452
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN U" tvg-logo="" group-title="MEXICAN",MX (SD) TP ESPN U
-http://supersonictv.live:25461/tv/tv/61453
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FILM & ART" tvg-logo="" group-title="MEXICAN",MX (SD) TP FILM & ART
-http://supersonictv.live:25461/tv/tv/61454
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOOD NETWORK" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOOD NETWORK
-http://supersonictv.live:25461/tv/tv/61455
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FORMULA TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP FORMULA TV
-http://supersonictv.live:25461/tv/tv/61456
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX
-http://supersonictv.live:25461/tv/tv/61457
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX ACTION" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX ACTION
-http://supersonictv.live:25461/tv/tv/61458
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CHANNEL" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX CHANNEL
-http://supersonictv.live:25461/tv/tv/61459
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CINEMA" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX CINEMA
-http://supersonictv.live:25461/tv/tv/61460
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX CLASSICS" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX CLASSICS
-http://supersonictv.live:25461/tv/tv/61461
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX LIFE" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX LIFE
-http://supersonictv.live:25461/tv/tv/61462
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX MOVIE" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX MOVIE
-http://supersonictv.live:25461/tv/tv/61463
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX NEWS" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX NEWS
-http://supersonictv.live:25461/tv/tv/61464
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SERIES" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX SERIES
-http://supersonictv.live:25461/tv/tv/61465
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX SPORTS
-http://supersonictv.live:25461/tv/tv/61466
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 2" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX SPORTS 2
-http://supersonictv.live:25461/tv/tv/61467
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 3" tvg-logo="" group-title="MEXICAN",MX (SD) TP FOX SPORTS 3
-http://supersonictv.live:25461/tv/tv/61468
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FX" tvg-logo="" group-title="MEXICAN",MX (SD) TP FX
-http://supersonictv.live:25461/tv/tv/61469
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FXM" tvg-logo="" group-title="MEXICAN",MX (SD) TP FXM
-http://supersonictv.live:25461/tv/tv/61470
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN" tvg-logo="" group-title="MEXICAN",MX (SD) TP GOLDEN
-http://supersonictv.live:25461/tv/tv/61471
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN EDGE" tvg-logo="" group-title="MEXICAN",MX (SD) TP GOLDEN EDGE
-http://supersonictv.live:25461/tv/tv/61472
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLDEN PLUS" tvg-logo="" group-title="MEXICAN",MX (SD) TP GOLDEN PLUS
-http://supersonictv.live:25461/tv/tv/61473
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP GOLF CH" tvg-logo="" group-title="MEXICAN",MX (SD) TP GOLF CH
-http://supersonictv.live:25461/tv/tv/61474
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HISTORY" tvg-logo="" group-title="MEXICAN",MX (SD) TP HISTORY
-http://supersonictv.live:25461/tv/tv/61475
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HLN" tvg-logo="" group-title="MEXICAN",MX (SD) TP HLN
-http://supersonictv.live:25461/tv/tv/61476
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP HOLA TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP HOLA TV
-http://supersonictv.live:25461/tv/tv/61477
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP i CLASSIC" tvg-logo="" group-title="MEXICAN",MX (SD) TP i CLASSIC
-http://supersonictv.live:25461/tv/tv/61478
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP I SAT" tvg-logo="" group-title="MEXICAN",MX (SD) TP I SAT
-http://supersonictv.live:25461/tv/tv/61479
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP IMAGEN TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP IMAGEN TV
-http://supersonictv.live:25461/tv/tv/61480
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP INGENIO TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP INGENIO TV
-http://supersonictv.live:25461/tv/tv/61481
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ITV" tvg-logo="" group-title="MEXICAN",MX (SD) TP ITV
-http://supersonictv.live:25461/tv/tv/61482
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP LAS ESTRELLAS" tvg-logo="" group-title="MEXICAN",MX (SD) TP LAS ESTRELLAS
-http://supersonictv.live:25461/tv/tv/61483
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MAS CHIC" tvg-logo="" group-title="MEXICAN",MX (SD) TP MAS CHIC
-http://supersonictv.live:25461/tv/tv/61484
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Mexiquice" tvg-logo="" group-title="MEXICAN",MX (SD) TP Mexiquice
-http://supersonictv.live:25461/tv/tv/61485
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Milenio TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP Milenio TV
-http://supersonictv.live:25461/tv/tv/61486
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MTV" tvg-logo="" group-title="MEXICAN",MX (SD) TP MTV
-http://supersonictv.live:25461/tv/tv/61487
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MTV LIVE" tvg-logo="" group-title="MEXICAN",MX (SD) TP MTV LIVE
-http://supersonictv.live:25461/tv/tv/61488
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MULTIMEDIOS" tvg-logo="" group-title="MEXICAN",MX (SD) TP MULTIMEDIOS
-http://supersonictv.live:25461/tv/tv/61489
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP MULTIMEDIOS P." tvg-logo="" group-title="MEXICAN",MX (SD) TP MULTIMEDIOS P.
-http://supersonictv.live:25461/tv/tv/61490
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO" tvg-logo="" group-title="MEXICAN",MX (SD) TP NAT GEO
-http://supersonictv.live:25461/tv/tv/61491
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO KIDS" tvg-logo="" group-title="MEXICAN",MX (SD) TP NAT GEO KIDS
-http://supersonictv.live:25461/tv/tv/61492
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NAT GEO WILD" tvg-logo="" group-title="MEXICAN",MX (SD) TP NAT GEO WILD
-http://supersonictv.live:25461/tv/tv/61493
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK" tvg-logo="" group-title="MEXICAN",MX (SD) TP NICK
-http://supersonictv.live:25461/tv/tv/61494
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK 2" tvg-logo="" group-title="MEXICAN",MX (SD) TP NICK 2
-http://supersonictv.live:25461/tv/tv/61495
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICK JR" tvg-logo="" group-title="MEXICAN",MX (SD) TP NICK JR
-http://supersonictv.live:25461/tv/tv/61496
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NICKTOONS" tvg-logo="" group-title="MEXICAN",MX (SD) TP NICKTOONS
-http://supersonictv.live:25461/tv/tv/61497
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP NTN24" tvg-logo="" group-title="MEXICAN",MX (SD) TP NTN24
-http://supersonictv.live:25461/tv/tv/61498
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP PARAMOUNT" tvg-logo="" group-title="MEXICAN",MX (SD) TP PARAMOUNT
-http://supersonictv.live:25461/tv/tv/61499
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP PX Sports" tvg-logo="" group-title="MEXICAN",MX (SD) TP PX Sports
-http://supersonictv.live:25461/tv/tv/61500
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Q TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP Q TV
-http://supersonictv.live:25461/tv/tv/61501
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP RMS" tvg-logo="" group-title="MEXICAN",MX (SD) TP RMS
-http://supersonictv.live:25461/tv/tv/61502
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP RMS_" tvg-logo="" group-title="MEXICAN",MX (SD) TP RMS_
-http://supersonictv.live:25461/tv/tv/61503
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SONY" tvg-logo="" group-title="MEXICAN",MX (SD) TP SONY
-http://supersonictv.live:25461/tv/tv/61504
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SPACE" tvg-logo="" group-title="MEXICAN",MX (SD) TP SPACE
-http://supersonictv.live:25461/tv/tv/61505
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP STAR TVE" tvg-logo="" group-title="MEXICAN",MX (SD) TP STAR TVE
-http://supersonictv.live:25461/tv/tv/61506
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP STUDIO UNIVERSAL" tvg-logo="" group-title="MEXICAN",MX (SD) TP STUDIO UNIVERSAL
-http://supersonictv.live:25461/tv/tv/61507
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SUNDNCE" tvg-logo="" group-title="MEXICAN",MX (SD) TP SUNDNCE
-http://supersonictv.live:25461/tv/tv/61508
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP SYFY" tvg-logo="" group-title="MEXICAN",MX (SD) TP SYFY
-http://supersonictv.live:25461/tv/tv/61509
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TBS" tvg-logo="" group-title="MEXICAN",MX (SD) TP TBS
-http://supersonictv.live:25461/tv/tv/61510
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TCM" tvg-logo="" group-title="MEXICAN",MX (SD) TP TCM
-http://supersonictv.live:25461/tv/tv/61511
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELEHIT" tvg-logo="" group-title="MEXICAN",MX (SD) TP TELEHIT
-http://supersonictv.live:25461/tv/tv/61512
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELENOVELAS" tvg-logo="" group-title="MEXICAN",MX (SD) TP TELENOVELAS
-http://supersonictv.live:25461/tv/tv/61513
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELERITMO" tvg-logo="" group-title="MEXICAN",MX (SD) TP TELERITMO
-http://supersonictv.live:25461/tv/tv/61514
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TELEVISA" tvg-logo="" group-title="MEXICAN",MX (SD) TP TELEVISA
-http://supersonictv.live:25461/tv/tv/61515
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP Telmex" tvg-logo="" group-title="MEXICAN",MX (SD) TP Telmex
-http://supersonictv.live:25461/tv/tv/61516
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TLC" tvg-logo="" group-title="MEXICAN",MX (SD) TP TLC
-http://supersonictv.live:25461/tv/tv/61517
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TLR" tvg-logo="" group-title="MEXICAN",MX (SD) TP TLR
-http://supersonictv.live:25461/tv/tv/61518
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TNT" tvg-logo="" group-title="MEXICAN",MX (SD) TP TNT
-http://supersonictv.live:25461/tv/tv/61519
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TNT SERIES" tvg-logo="" group-title="MEXICAN",MX (SD) TP TNT SERIES
-http://supersonictv.live:25461/tv/tv/61520
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TOONCAST" tvg-logo="" group-title="MEXICAN",MX (SD) TP TOONCAST
-http://supersonictv.live:25461/tv/tv/61521
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL Once" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL Once
-http://supersonictv.live:25461/tv/tv/61522
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL104" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL104
-http://supersonictv.live:25461/tv/tv/61523
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL113" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL113
-http://supersonictv.live:25461/tv/tv/61524
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL1755" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL1755
-http://supersonictv.live:25461/tv/tv/61525
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL1870" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL1870
-http://supersonictv.live:25461/tv/tv/61526
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2089" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL2089
-http://supersonictv.live:25461/tv/tv/61527
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL211" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL211
-http://supersonictv.live:25461/tv/tv/61528
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2113" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL2113
-http://supersonictv.live:25461/tv/tv/61529
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2145" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL2145
-http://supersonictv.live:25461/tv/tv/61530
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2331" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL2331
-http://supersonictv.live:25461/tv/tv/61531
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL2336I" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL2336I
-http://supersonictv.live:25461/tv/tv/61532
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL270" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL270
-http://supersonictv.live:25461/tv/tv/61533
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL270_" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL270_
-http://supersonictv.live:25461/tv/tv/61534
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL44" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL44
-http://supersonictv.live:25461/tv/tv/61535
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL481" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL481
-http://supersonictv.live:25461/tv/tv/61536
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL490" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL490
-http://supersonictv.live:25461/tv/tv/61537
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL556" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL556
-http://supersonictv.live:25461/tv/tv/61538
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL66679" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL66679
-http://supersonictv.live:25461/tv/tv/61539
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL667" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL667
-http://supersonictv.live:25461/tv/tv/61540
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL766" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL766
-http://supersonictv.live:25461/tv/tv/61541
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL8345" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL8345
-http://supersonictv.live:25461/tv/tv/61542
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TP CANAL9999" tvg-logo="" group-title="MEXICAN",MX (SD) TP TP CANAL9999
-http://supersonictv.live:25461/tv/tv/61543
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TRU TV" tvg-logo="" group-title="MEXICAN",MX (SD) TP TRU TV
-http://supersonictv.live:25461/tv/tv/61544
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TV MAS" tvg-logo="" group-title="MEXICAN",MX (SD) TP TV MAS
-http://supersonictv.live:25461/tv/tv/61545
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TV5 FRANCIA" tvg-logo="" group-title="MEXICAN",MX (SD) TP TV5 FRANCIA
-http://supersonictv.live:25461/tv/tv/61546
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVC" tvg-logo="" group-title="MEXICAN",MX (SD) TP TVC
-http://supersonictv.live:25461/tv/tv/61547
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVCD" tvg-logo="" group-title="MEXICAN",MX (SD) TP TVCD
-http://supersonictv.live:25461/tv/tv/61548
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TVE" tvg-logo="" group-title="MEXICAN",MX (SD) TP TVE
-http://supersonictv.live:25461/tv/tv/61549
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP UNICABLE" tvg-logo="" group-title="MEXICAN",MX (SD) TP UNICABLE
-http://supersonictv.live:25461/tv/tv/61550
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP UNIVERSAL" tvg-logo="" group-title="MEXICAN",MX (SD) TP UNIVERSAL
-http://supersonictv.live:25461/tv/tv/61551
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP VH1" tvg-logo="" group-title="MEXICAN",MX (SD) TP VH1
-http://supersonictv.live:25461/tv/tv/61552
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP VH1 P" tvg-logo="" group-title="MEXICAN",MX (SD) TP VH1 P
-http://supersonictv.live:25461/tv/tv/61553
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP WARNER CH" tvg-logo="" group-title="MEXICAN",MX (SD) TP WARNER CH
-http://supersonictv.live:25461/tv/tv/61554
-#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP WOBI" tvg-logo="" group-title="MEXICAN",MX (SD) TP WOBI
-http://supersonictv.live:25461/tv/tv/61555
+
+#EXTINF:-1, TELEMETRO
+
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+
+#EXTINF:-1, OYE TV 
+
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
+
+#EXTINF:-1,A3S
+
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,SNT
+
+http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+
+#EXTINF:-1,ANTENA LATINA
+
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b610304.m3u8
+
+#EXTINF:-1,ADN 40
+
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CINE DE CALIDAD CC
+
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
+
+#EXTINF:-1,TOP LATINO
+
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1,TELEMUNDO
+
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
+
+#EXTINF:-1,HBO2
+
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,WAPA
+
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,UNIVISION
+
+https://hls-ord-1a.vaughnsoft.net/den/live/live_tvhdenvivo2/chunklist.m3u8
+
+#EXTINF:-1,WOW
+
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,NEX TV
+
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1,AZTECA AMERICA
+
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL TRECE
+
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+
+#EXTINF:-1,NEOX
+
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+
+#EXTINF:-1,ANIME TV
+
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,VE PLUS
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:-1,TELECARIBE
+
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1,RCN HD
+
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+
+#EXTINF:-1,TELE ANTIOQUIA HD
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CANAL ANTIESTRES
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+#EXTINF:-1,CANAL UNO
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF:-1,CANTINAZO TV
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,LIFEDESING
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+
+#EXTINF:-1,MI MUSICA
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1,TELE CAFE
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+#EXTINF:-1,TELE MEDELLIN
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1,TELE VIDA
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+#EXTINF:-1,TIGO MUSIC
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1,TV AGRO
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+
+#EXTINF:-1,COSMOVISION
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1,TRENDY
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:-1,A+
+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ANTENA 3
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1,AZTECA 13
+
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL ONCE
+
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,TELEMUSICA
+
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+
+#EXTINF:-1,POWER HD
+
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,MEGA
+
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+
+#EXTINF:-1,NOVA
+
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+
+#EXTINF:-1,WIPR
+
+http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
+
+#EXTINF:-1,TELERED
+
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1,RCP
+
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+
+#EXTINF:-1,LOCOMOTION TV
+
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
+
+#EXTINF:-1,TICAVISION
+
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
