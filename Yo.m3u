@@ -1,114 +1,98 @@
 
 #EXTM3U
 
-#EXTINF:-1, TELEMETRO
+#EXTINF:-1, WOWLY
 
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+https://wowly.stream/hls/stream_src/index.m3u8
+#EXTINF:-1, CINE LATAM 
 
-#EXTINF:-1, OYE TV 
+https://regioplay.xyz/php/SR_REGIO_814022_/distroregio.php?c=top-cine-latam&f=.m3u8
 
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
+#EXTINF:-1, EL CHAVO
 
-#EXTINF:-1,A3S
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, AZTECA UNO
 
-#EXTINF:-1,SNT
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/chunklist_b1016832.m3u8
+#EXTINF:-1, AZTECA 7
 
-#EXTINF:-1,ANTENA LATINA
-
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b610304.m3u8
-
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1,ADN 40
 
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,CINE DE CALIDAD CC
+#EXTINF:-1,NUEVE
 
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=elnueve&token=srregio.net&f=.m3u8
 
-#EXTINF:-1,TOP LATINO
+#EXTINF:-1,IMAGEN TV
 
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=imagentv&token=srregio.net&f=.m3u8
 
+#EXTINF:-1,SPACE
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=space&token=srregio.net&f=.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=directv&token=srregio.net&f=.m3u8
+
+#EXTINF:-1,ESPN DEPORTES
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=espndep&token=srregio.net&f=.m3u8
+
+#EXTINF:-1,ESPN3
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=espn3-mx&token=srregio.net&f=.m3u8
+#EXTINF:-1,FOX SPORTS 1
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=foxsports1-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=foxsports2-mx&token=srregio.net&f=.m3u8
+
+#EXTINF:-1,FOX SPORTS 3
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=foxsports3-mx&token=srregio.net&f=.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=foxsportsp&token=srregio.net&f=.m3u8
+#EXTINF:-1,NFL NETWORK
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=nfl&token=srregio.net&f=.m3u8
+#EXTINF:-1,LA LIGA
+
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=mlaliga&token=srregio.net&f=.m3u8
 #EXTINF:-1,TELEMUNDO
 
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=telemundo&token=srregio.net&f=.m3u8
+#EXTINF:-1,TUDN
 
-#EXTINF:-1,HBO2
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=tudn-mx&token=srregio.net&f=.m3u8
+#EXTINF:-1,UNIMAS
 
-http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=unimas&token=srregio.net&f=.m3u8
+#EXTINF:-1,UFC
 
-#EXTINF:-1,WAPA
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=ufc&token=srregio.net&f=.m3u8
+#EXTINF:-1,EL DOS
 
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=eldos&token=srregio.net&dos=.m3u8
+#EXTINF:-1,EL CINCO
 
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=elcinco&token=srregio.net&dos=.m3u8
+#EXTINF:-1,EL SIETE
 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=azteca7&token=srregio.net&dos=.m3u8
+#EXTINF:-1,EL NUEVE
 
-#EXTINF:-1,UNIVISION
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=elnueve&token=srregio.net&dos=.m3u8
+#EXTINF:-1,IMAGEN TV
 
-https://hls-ord-1a.vaughnsoft.net/den/live/live_tvhdenvivo2/chunklist.m3u8
-
-#EXTINF:-1,WOW
-
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1,NEX TV
-
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-#EXTINF:-1,AZTECA AMERICA
-
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,CANAL TRECE
-
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
-
-#EXTINF:-1,NEOX
-
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
-
-#EXTINF:-1,ANIME TV
-
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-
-#EXTINF:-1,VE PLUS
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-
-#EXTINF:-1,TELECARIBE
-
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1,RCN HD
-
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
-
-#EXTINF:-1,TELE ANTIOQUIA HD
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,CANAL ANTIESTRES
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-
-#EXTINF:-1,CANAL UNO
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-
-#EXTINF:-1,CANTINAZO TV
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-
-#EXTINF:-1,LIFEDESING
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-
+http://regioplay.xyz/php/SR_REGIO_814022_/regionuevo.php?c=imagentv&token=srregio.net&dos=.m3u8
 #EXTINF:-1,MI MUSICA
 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
