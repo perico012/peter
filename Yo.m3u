@@ -136,10 +136,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=328&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=335&=f.m3u8   
 #EXTINF:-1, PARAMOUNT CHANNEL 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1726&=f.m3u8  
-#EXTINF:-1,Fox
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=91|User-Agent=suplayer
-#EXTINF:-1,FX
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=92|User-Agent=suplayer
 
 *** ENTRETENIMIENTO ***
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
