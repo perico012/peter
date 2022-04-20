@@ -1,6 +1,6 @@
 
 #EXTM3U
-*** NACIONALES ***
+#EXTINF:-1, *** NACIONALES ***
 #EXTINF:-1, ONCE NINOS (CLASE)
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=3315&=f.m3u8
 #EXTINF:-1, AZTECA UNO HD
