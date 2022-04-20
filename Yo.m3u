@@ -1,6 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1, *** NACIONALES ***
 #EXTINF:-1, ONCE NINOS (CLASE)
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=3315&=f.m3u8
 #EXTINF:-1, AZTECA UNO HD
@@ -67,7 +66,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2606&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2882&=f.m3u8  
 
 
- INFANTILES
 #EXTINF:-1, TOONCAST
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=108&=f.m3u8  
 #EXTINF:-1, DISCOVERY KIDS
@@ -99,7 +97,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2373&=f.m3u8
 #EXTINF:-1, BIT ME  
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2591&=f.m3u8
 
-*** CINE ***
 #EXTINF:-1, TBS SD  
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=81&=f.m3u8 
 #EXTINF:-1, DE PELICULA + 
@@ -131,7 +128,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=335&=f.m3u8
 #EXTINF:-1, PARAMOUNT CHANNEL 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1726&=f.m3u8  
 
-*** ENTRETENIMIENTO ***
+
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=85&=f.m3u8  
 #EXTINF:-1, FOX  
@@ -185,7 +182,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1842&=f.m3u8
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2113&=f.m3u8 
 
-*** DEPORTES ***
 #EXTINF:-1, ESPN + 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=167&=f.m3u8 
 #EXTINF:-1, ESPN 
@@ -219,7 +215,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2564&=f.m3u8
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2587&=f.m3u8 
 
-*** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2376&=f.m3u8  
  #EXTINF:-1, GARAGE TV 
@@ -253,7 +248,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2379&=f.m3u8
 #EXTINF:-1, CURIOSITY STREAM
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2594&=f.m3u8  
 
-*** MUSICA ***
 #EXTINF:-1, MTV LIVE
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=211&=f.m3u8  
 #EXTINF:-1, MTV
@@ -276,7 +270,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=223&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=334&=f.m3u8  
 
 
-*** NOTICIAS ***
 #EXTINF:-1, FOROTV HD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=4&=f.m3u8
 #EXTINF:-1, FOROTV SD
