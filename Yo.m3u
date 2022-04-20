@@ -46,9 +46,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1784&=f.m3u8
 #EXTINF:-1, CANAL 5 HD (2)
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1785&=f.m3u8
 #EXTINF:-1, ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1942&=f.m3u8  
-#EXTINF:-1, MVS TV
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2149&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1942&=f.m3u8    
 #EXTINF:-1, TVC
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2156&=f.m3u8 
 #EXTINF:-1, CANAL 4 
@@ -58,9 +56,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2307&=f.m3u8
 #EXTINF:-1, TELEVISA PUEBLA
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2312&=f.m3u8  
 #EXTINF:-1, A+ 
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2316&=f.m3u8  
-#EXTINF:-1, TVMAS
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2324&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2316&=f.m3u8    
 #EXTINF:-1, CANAL DEL CONGRESO
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2331&=f.m3u8  
 #EXTINF:-1, MULTIMEDIOS CDMX
@@ -119,9 +115,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=126&=f.m3u8
 #EXTINF:-1, TCM
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=128&=f.m3u8  
 #EXTINF:-1, SPACE
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=129&=f.m3u8  
-#EXTINF:-1, AMC 
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=131&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=129&=f.m3u8    
 #EXTINF:-1, STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=132&=f.m3u8    
 #EXTINF:-1, MORBIDO
@@ -155,23 +149,13 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=59&=f.m3u8
 #EXTINF:-1, FX
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=60&=f.m3u8  
 #EXTINF:-1, A&E
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=62&=f.m3u8  
-#EXTINF:-1, AXN
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=64&=f.m3u8  
-#EXTINF:-1, UNICABLE SD
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=66&=f.m3u8  
-#EXTINF:-1, SUNDANCE TV
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=69&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=62&=f.m3u8     
 #EXTINF:-1, TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=71&=f.m3u8 
 #EXTINF:-1, GLITZ
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=76&=f.m3u8 
 #EXTINF:-1, GOURMET 
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=74&=f.m3u8
-#EXTINF:-1, FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=77&=f.m3u8  
-#EXTINF:-1, DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=78&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=74&=f.m3u8    
 #EXTINF:-1, TRUTV
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=79&=f.m3u8 
 #EXTINF:-1, TL NOVELAS SD
@@ -193,9 +177,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=215&=f.m3u8
 #EXTINF:-1, HOLA TV HD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=219&=f.m3u8 
 #EXTINF:-1, COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=340&=f.m3u8  
-#EXTINF:-1, COMEDY CENTRAL SD
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=341&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=340&=f.m3u8   
 #EXTINF:-1, UNICABLE
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1499&=f.m3u8  
 #EXTINF:-1, MAS CHIC
@@ -218,8 +200,6 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=172&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=174&=f.m3u8  
 #EXTINF:-1, FOX SPORTS 3 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=178&=f.m3u8  
-#EXTINF:-1,Fox Premium Series Subtitulado
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=78|User-Agent=suplayer
 #EXTINF:-1, GOLF
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=179&=f.m3u8  
 #EXTINF:-1, AYM SPORTS
@@ -232,26 +212,12 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1049&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=1799&=f.m3u8  
 #EXTINF:-1, LAS
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2089&=f.m3u8
-#EXTINF:-1, HAVOC
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2148&=f.m3u8
 #EXTINF:-1, TVC DEPORTES
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2157&=f.m3u8  
 #EXTINF:-1, CLARO SPORTS HD  
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2564&=f.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2587&=f.m3u8 
-#EXTINF:-1,Directv Sports
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=187|User-Agent=suplayer
-#EXTINF:-1,Directv Sports 2
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=188|User-Agent=suplayer
-#EXTINF:-1,Univision UDN
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=189|User-Agent=suplayer
-#EXTINF:-1,Univision TDN
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=190|User-Agent=suplayer
-#EXTINF:-1,RedBull
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=351|User-Agent=suplayer
-#EXTINF:-1,UFC TV
-http://regioplay.xyz/php/SR_REGIO_814022_/regiotv2.php?c=353|User-Agent=suplayer
 
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
@@ -266,18 +232,12 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=2378&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=89&=f.m3u8  
 #EXTINF:-1, NAT GEO  
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=91&=f.m3u8  
-#EXTINF:-1, NAT GEO WILD
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=92&=f.m3u8
 #EXTINF:-1, DISCOVERY THEATER
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=95&=f.m3u8 
 #EXTINF:-1, H&H
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=96&=f.m3u8 
-#EXTINF:-1, TLC
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=97&=f.m3u8
 #EXTINF:-1, DISCOVERY SCIENCE  
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=98&=f.m3u8  
-#EXTINF:-1, DISCOVERY CIVILIZATION
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=99&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=98&=f.m3u8    
 #EXTINF:-1, DISCOVERY WORLD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=101&=f.m3u8
 #EXTINF:-1, TVE
@@ -329,11 +289,11 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=184&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=185&=f.m3u8  
 #EXTINF:-1, CNN SD
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=186&=f.m3u8  
-#EXTINF:-1, CNN Ñ SD
+#EXTINF:-1, CNN SD ESPAÑOL
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=187&=f.m3u8
 #EXTINF:-1, WOBI 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=102&=f.m3u8 
-#EXTINF:-1, FOXN EWS
+#EXTINF:-1, FOX NEWS
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=188&=f.m3u8  
 #EXTINF:-1, BLOOMBERG 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=190&=f.m3u8  
@@ -342,9 +302,7 @@ http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=191&=f.m3u8
 #EXTINF:-1, AL JAAZERA 
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=192&=f.m3u8  
 #EXTINF:-1, NTN 24
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=194&=f.m3u8  
-#EXTINF:-1, JUSTICIA TV 
-http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=196&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=194&=f.m3u8   
 #EXTINF:-1, HLN
 http://regioplay.xyz/php/SR_REGIO_814022_/nuevotp.php?c=197&=f.m3u8 
 #EXTINF:-1, DW 
