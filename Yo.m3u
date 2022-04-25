@@ -223,7 +223,12 @@ http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2157&=f.m3u8
 #EXTINF:-1, CLARO SPORTS HD  
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2564&=f.m3u8  
 #EXTINF:-1, FUEL TV HD 
-http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2587&=f.m3u8 
+http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2587&=f.m3u8
+#EXTINF:-1, AFFIZIONADOS
+http://regioplay.xyz/php/SR_REGIO_224022_/regionuevo.php?c=afizzionados&token=srregio.net&f=.m3u8
+#EXTINF:-1, DIRECTV2
+http://regioplay.xyz/php/SR_REGIO_224022_/regionuevo.php?c=directv2&token=srregio.net&f=.m3u8
+
 
 #EXTINF:-1, DISCOVERY ID
 http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=2376&=f.m3u8  
