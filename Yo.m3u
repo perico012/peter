@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1, AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_924022_/nuevotp.php?c=27&=f.m3u8
+http://regioplay.xyz/php/SR_REGIO_224022_/nuevotp.php?c=27&=f.m3u8
 #EXTINF:-1, AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_924022_/nuevotp.php?c=7&=f.m3u8
 #EXTINF:-1, LAS ESTRELLAS
