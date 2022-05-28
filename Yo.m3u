@@ -37,3 +37,69 @@ http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2564&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=2587&=f.m3u8 
 
 
+#EXTINF:-1, TBS SD  
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=81&=f.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=121&=f.m3u8  
+#EXTINF:-1, GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=122&=f.m3u8  
+#EXTINF:-1, GOLDEN
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=123&=f.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=124&=f.m3u8 
+#EXTINF:-1, TNT 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=126&=f.m3u8  
+#EXTINF:-1, TCM
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=128&=f.m3u8  
+#EXTINF:-1, SPACE
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=129&=f.m3u8  
+#EXTINF:-1, AMC 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=131&=f.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=132&=f.m3u8  
+#EXTINF:-1, I SAT  
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=135&=f.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=136&=f.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=137&=f.m3u8  
+#EXTINF:-1, FXM
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=138&=f.m3u8  
+#EXTINF:-1, FXM SD 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=332&=f.m3u8
+#EXTINF:-1, FOX SERIES
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=139&=f.m3u8  
+#EXTINF:-1, MORBIDO
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=140&=f.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=146&=f.m3u8  
+#EXTINF:-1, CINECANAL
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=149&=f.m3u8  
+#EXTINF:-1, CINEMAX 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=158&=f.m3u8
+#EXTINF:-1, AMC  
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=328&=f.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=335&=f.m3u8  
+#EXTINF:-1, FOX ACTION
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=336&=f.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=1726&=f.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=1729&=f.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=1732&=f.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_715022_/nuevotp.php?c=1787&=f.m3u8 
+#EXTINF:-1 group-title="Android",HBO plus
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=59&f=.m3u8|user-agent=paraplayer
+#EXTINF:-1 group-title="Android",HBO Subtitulado
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=60&f=.m3u8|user-agent=paraplayer
+#EXTINF:-1 group-title="Android",HBO Signature
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=61&f=.m3u8|user-agent=paraplayer
+#EXTINF:-1 group-title="Android",HBO Family
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=62&f=.m3u8|user-agent=paraplayer
+#EXTINF:-1 group-title="Android",HBO 2
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=63&f=.m3u8|user-agent=paraplayer
+#EXTINF:-1 group-title="Android",HBO
+http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=64&f=.m3u8|user-agent=paraplayer
