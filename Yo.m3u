@@ -1,23 +1,42 @@
 #EXTM3U
-#EXTINF:-1 harmony
+#EXTINF:-1 ,harmony
 http://54.39.52.63/PELICULA/1.07/Harmony%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 murder ay yellowstone
+#EXTINF:-1 ,murder ay yellowstone
 http://54.39.52.63/PELICULA/1.07/Murder%20at%20Yellowstone%20City%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 the nan
+#EXTINF:-1 ,the nan
 http://54.39.52.63/PELICULA/1.07/The%20Nan%20Movie%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 vortex
+#EXTINF:-1 ,vortex
 http://54.39.52.63/PELICULA/1.07/Vortex%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 alerta roja
+#EXTINF:-1 ,alerta roja
 http://54.39.52.63/PELICULA/1.1/Alerta%20roja%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 rapido y furioso 9
+#EXTINF:-1 ,rapido y furioso 9
 http://54.39.52.63/PELICULA/1.1/Fast%20&%20Furious%209%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 lully
+#EXTINF:-1 ,lully
 http://54.39.52.63/PELICULA/1.1/Lulli%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 NIght Walk
+#EXTINF:-1 ,NIght Walk
 http://54.39.52.63/PELICULA/1.2/Night%20Walk%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 caza fantasmas mas alla
+#EXTINF:-1 ,caza fantasmas mas alla
 http://54.39.52.63/PELICULA/1.4/Cazafantasmas%20M%c3%a1s%20all%c3%a1%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 gates of darkness
+#EXTINF:-1 ,gates of darkness
 http://54.39.52.63/PELICULA/1.4A/Gates%20of%20Darkness%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 granizo
+#EXTINF:-1 ,granizo
 http://54.39.52.63/PELICULA/1.4A/Granizo%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 , canta
+http://54.39.52.63/PELICULA/1.8/%c2%a1Canta!%202%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1 , 4 mitades
+http://54.39.52.63/PELICULA/1.8/4%20mitades%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1, chief daddy
+http://54.39.52.63/PELICULA/1.8/Chief%20Daddy%202%20Going%20for%20Broke%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1, el bar
+http://54.39.52.63/PELICULA/1.8/El%20bar%20de%20las%20grandes%20esperanzas%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1, mama android
+http://54.39.52.63/PELICULA/1.8/MotherAndroid%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1, the doll maker
+http://54.39.52.63/PELICULA/1.11.1/The.dollmaker.LAT.mp4
+#EXTINF:-1, eternals
+http://54.39.52.63/PELICULA/1.11/Eternals%20%e2%80%93%20ARESHD.mp4
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
+#EXTINF:-1
