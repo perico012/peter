@@ -1,42 +1,55 @@
 #EXTM3U
-#EXTINF:-1 ,harmony
-http://54.39.52.63/PELICULA/1.07/Harmony%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,murder ay yellowstone
-http://54.39.52.63/PELICULA/1.07/Murder%20at%20Yellowstone%20City%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,the nan
-http://54.39.52.63/PELICULA/1.07/The%20Nan%20Movie%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,vortex
-http://54.39.52.63/PELICULA/1.07/Vortex%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,alerta roja
-http://54.39.52.63/PELICULA/1.1/Alerta%20roja%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,rapido y furioso 9
-http://54.39.52.63/PELICULA/1.1/Fast%20&%20Furious%209%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,lully
-http://54.39.52.63/PELICULA/1.1/Lulli%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,NIght Walk
-http://54.39.52.63/PELICULA/1.2/Night%20Walk%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,caza fantasmas mas alla
-http://54.39.52.63/PELICULA/1.4/Cazafantasmas%20M%c3%a1s%20all%c3%a1%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,gates of darkness
-http://54.39.52.63/PELICULA/1.4A/Gates%20of%20Darkness%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 ,granizo
-http://54.39.52.63/PELICULA/1.4A/Granizo%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 , canta
-http://54.39.52.63/PELICULA/1.8/%c2%a1Canta!%202%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 , 4 mitades
-http://54.39.52.63/PELICULA/1.8/4%20mitades%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1, chief daddy
-http://54.39.52.63/PELICULA/1.8/Chief%20Daddy%202%20Going%20for%20Broke%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1, el bar
-http://54.39.52.63/PELICULA/1.8/El%20bar%20de%20las%20grandes%20esperanzas%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1, mama android
-http://54.39.52.63/PELICULA/1.8/MotherAndroid%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1, the doll maker
-http://54.39.52.63/PELICULA/1.11.1/The.dollmaker.LAT.mp4
-#EXTINF:-1, eternals
-http://54.39.52.63/PELICULA/1.11/Eternals%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+#EXTINF:-1 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+#EXTINF:-1 https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 https://v1.tustreaming.cl/cosmostv/index.m3u8
+#EXTINF:-1 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+#EXTINF:-1 https://mc.servidor.stream:19360/8256/8256.m3u8
+#EXTINF:-1 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+#EXTINF:-1 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+#EXTINF:-1 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+#EXTINF:-1 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+#EXTINF:-1 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
+#EXTINF:-1 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 https://master.tucableip.com/gigavision/playlist.m3u8
+#EXTINF:-1 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+#EXTINF:-1 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
+#EXTINF:-1 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
+#EXTINF:-1 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
